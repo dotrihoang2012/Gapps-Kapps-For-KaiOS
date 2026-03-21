@@ -1,0 +1,100 @@
+{
+  "version": "1.2.3",
+  "name": "Sokoban",
+  "orientation": "portrait",
+  "description": "A little dude has to push the cube to the correct places and he needs your help! Try out this fun and addictive level based puzzle game to challenge your brain.",
+  "subtitle": "Challenge yourself with puzzles!",
+  "origin": "app://kaios.sokoban.net",
+  "launch_path": "/index.html",
+  "categories": ["games"],
+  "icons": {
+     "112": "/assets/sokoban_112.png",
+     "56": "/assets/sokoban_56.png"
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "locales": {
+     "en-US": {
+      "name": "Sokoban",
+      "subtitle": "Challenge yourself with puzzles!",
+      "description": "A little dude has to push the cube to the correct places and he needs your help! Try out this fun and addictive level based puzzle game to challenge your brain."
+    },
+    "pt-BR": {
+      "name": "Sokoban",
+      "subtitle": "Desafie-se com quebra-cabeças!",
+      "description": "O homenzinho tem de empurrar o cubo para os locais certos e precisa da sua ajuda! Experimente este jogo de quebra-cabeças baseado em níveis divertido e viciante para desafiar a sua mente."
+    },
+    "pt-PT": {
+      "name": "Sokoban",
+      "subtitle": "Desafie-se com quebra-cabeças!",
+      "description": "O homenzinho tem de empurrar o cubo para os locais certos e precisa da sua ajuda! Experimente este jogo de quebra-cabeças baseado em níveis divertido e viciante para desafiar a sua mente."
+    },
+    "ru-RU": {
+      "name": "Sokoban",
+      "subtitle": "Бросайте вызов головоломкам!",
+      "description": "Маленький пижон должен толкать куб к верным местам, и он нуждается в вашей помощи! Попробуйте этот уровень забавной и захватывающей пазл-игры, чтобы бросить вызов вашему интеллекту."
+    },
+    "ar-SA": {
+      "name": "Sokoban",
+      "subtitle": "تحدَ نفسك مع الألغاز!",
+      "description": "رجل صغير عليه أن يدفع المكعب إلى الأماكن الصحيحة ويحتاج إلى مساعدتك! جرب لعبة الألغاز الممتعة والجذابة ذات المستويات هذه لتحدي عقلك."
+    },
+    "de-DE": {
+      "name": "Sokoban",
+      "subtitle": "Stellen Sie sich der Herausforderung dieser Puzzles!",
+      "description": "Ein kleiner Kerl muss die Würfel an die richtige Stelle schieben und benötigt dringend Ihre Hilfe! Mit diesem unterhaltsamen Puzzlespiel mit mehreren Leveln halten Sie Ihren Denkapparat auf Trab."
+    },
+    "es-ES": {
+      "name": "Sokoban",
+      "subtitle": "¡Ponte a prueba con puzles!",
+      "description": "Un pequeño amigo debe empujar el cubo hasta el lugar correcto y necesita tu ayuda. Prueba este divertido y adictivo juego de puzles y pon a prueba tu cerebro."
+    },
+    "es-US": {
+      "name": "Sokoban",
+      "subtitle": "¡Ponte a prueba con puzles!",
+      "description": "Un pequeño amigo debe empujar el cubo hasta el lugar correcto y necesita tu ayuda. Prueba este divertido y adictivo juego de puzles y pon a prueba tu cerebro."
+    },
+    "fr-FR": {
+      "name": "Sokoban",
+      "subtitle": "Relevez le défi avec des énigmes !",
+      "description": "Un petit bonhomme doit pousser le cube aux bons endroits mais il a besoin de votre aide. Essayez ce jeu de puzzle de plateau amusant et addictif pour défier votre intellect."
+    },
+    "fr-CA": {
+      "name": "Sokoban",
+      "subtitle": "Relevez le défi avec des énigmes !",
+      "description": "Un petit bonhomme doit pousser le cube aux bons endroits mais il a besoin de votre aide. Essayez ce jeu de puzzle de plateau amusant et addictif pour défier votre intellect."
+    },
+    "sw-ZA": {
+      "name": "Sokoban",
+      "subtitle": "Jitathmini kwa mafumbo!",
+      "description": "Jamaa mdogo anafaa kusukuma michemraba kwenda kwenye maeneo sahihi na anahitaji msaada wako! Jaribu fumbo hili la kusisimua linaloenda kwa hatua ili usisimue ubongo wako."
+    },
+    "ur-PK": {
+      "name": "سوکوبان",
+      "subtitle": "اپنے آپ کو پزلز کا چیلنج دیں!",
+      "description": "ایک چھوٹے دوست نے کیوب کو صحیح جگہوں پر دھکیلنا ہے اور اسے آپ کی مدد کی ضرورت ہے! اپنے دماغ کو چیلنج کرنے کے لیے یہ لیولز پر مبنی دلچسپ اور تفریحی پزل گیم کھیلیں۔"
+    },
+    "zh-CN": {
+      "name": "推箱子",
+      "subtitle": "通过智力游戏不断挑战自己！",
+      "description": "一个小家伙必须将立方体推至正确位置，他需要您的帮助！试试这款有趣且令人上瘾的益智游戏，不断挑战您的大脑。"
+    },
+    "vi-VN": {
+      "name": "Sokoban",
+      "subtitle": "Thử thách bản thân với những câu đố!",
+      "description": "Một anh chàng nhỏ bé phải đẩy khối lập phương đến đúng vị trí và anh ta cần sự giúp đỡ của bạn! Hãy thử trò chơi giải đố cấp độ thú vị và gây nghiện này để thử thách trí não của bạn."
+    }
+  },
+  "default_locale": "en-US"
+}

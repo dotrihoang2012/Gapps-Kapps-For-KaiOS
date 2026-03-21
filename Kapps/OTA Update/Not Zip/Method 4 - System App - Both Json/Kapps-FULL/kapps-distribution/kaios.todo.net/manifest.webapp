@@ -1,0 +1,303 @@
+{
+  "version": "1.5.2",
+  "name": "ToDo",
+  "categories": ["utilities"],
+  "description":
+    "Manage your time with a simple and intelligent list of activities and plan your day ahead. Whether it's professionnal or personnal, ToDo increases productivity.",
+  "subtitle": "Organize and plan your day",
+  "launch_path": "/index.html",
+  "permissions": {
+    "mobiledata": {},
+    "wifidata": {}
+  },
+  "theme_color": "#FF6B00",
+  "default_locale": "en-US",
+  "type": "web",
+  "locales": {
+    "en-US": {
+      "name": "Todo",
+      "description":
+        "Manage your time with a simple and intelligent list of activities and plan your day ahead. Whether it's professionnal or personnal, ToDo relieves your stress and increases productivity.",
+      "subtitle": "Organize and plan your day"
+    },
+    "pt-BR": {
+      "name": "ToDo",
+      "subtitle": "Organize e planeie o seu dia",
+      "description":
+        "Faça a gestão do seu tempo com uma lista de atividades simples e inteligente e planeie o seu dia com tempo. Quer a nível profissional ou pessoal, o ToDo alivia o seu stress e aumenta a produtividade."
+    },
+    "pt-PT": {
+      "name": "ToDo",
+      "subtitle": "Organize e planeie o seu dia",
+      "description":
+        "Faça a gestão do seu tempo com uma lista de atividades simples e inteligente e planeie o seu dia com tempo. Quer a nível profissional ou pessoal, o ToDo alivia o seu stress e aumenta a produtividade."
+    },
+    "ru-RU": {
+      "name": "ToDo",
+      "subtitle": "Организуйте и спланируйте ваш день",
+      "description":
+        "Управляйте своим временем с помощью простого и интеллектуального списка активности, планируя свой день заранее. Будь то профессиональные или личные дела, ToDo снимает стресс и повышает производительность."
+    },
+    "ar-SA": {
+      "name": "ToDo",
+      "subtitle": "نظم وخطط يومك",
+      "description":
+        "قم بإدارة وقتك مع قائمة بسيطة وأنشطة ذكية وخطط ليومك مسبقًا. سواءً كان الاستخدام مهنيًا أو شخصيًا، فإن ToDo يخفف من التوتر ويزيد من الإنتاجية."
+    },
+    "de-DE": {
+      "name": "ToDo",
+      "subtitle": "Tage planen und organisieren",
+      "description":
+        "Teilen Sie sich Ihre Zeit mit einer einfachen aber cleveren Liste für Aktivitäten ein, um Ihre Tage im Voraus zu planen. Ob geschäftliche oder private Termine, ToDo sorgt für weniger Stress und mehr Produktivität."
+    },
+    "es-ES": {
+      "name": "Tareas",
+      "subtitle": "Organiza y planifica tu día",
+      "description":
+        "Gestiona tu tiempo con una sencilla e inteligente lista de actividades y planifica tu día con antelación. Ya sea para actividades de carácter profesional o personal, Tareas te ayudará a reducir el estrés y aumentar tu productividad."
+    },
+    "es-US": {
+      "name": "Tareas",
+      "subtitle": "Organiza y planifica tu día",
+      "description":
+        "Gestiona tu tiempo con una sencilla e inteligente lista de actividades y planifica tu día con antelación. Ya sea para actividades de carácter profesional o personal, Tareas te ayudará a reducir el estrés y aumentar tu productividad."
+    },
+    "fr-FR": {
+      "name": "ToDo",
+      "subtitle": "Organisez et planifiez votre journée",
+      "description":
+        "Gérez votre temps l’aide d’une liste simple et intelligente de vos activités pour planifier votre journée. Que ce soit pour vos tâches professionnelles ou personnelles, ToDo vous évite du stress et améliore votre productivité."
+    },
+    "fr-CA": {
+      "name": "ToDo",
+      "subtitle": "Organisez et planifiez votre journée",
+      "description":
+        "Gérez votre temps l’aide d’une liste simple et intelligente de vos activités pour planifier votre journée. Que ce soit pour vos tâches professionnelles ou personnelles, ToDo vous évite du stress et améliore votre productivité."
+    },
+    "zh-CN": {
+      "name": "代办",
+      "subtitle": "安排和计划您的每日事项",
+      "description":
+        "通过简单智能的活动清单来管理您的时间，并为每天做好安排。 无论用于专业或是私人活动安排，代办应用都会减轻您的压力并提高工作效率。"
+    },
+    "vi-VN": {
+      "name": "Làm",
+      "subtitle": "Tổ chức và lập kế hoạch cho ngày của bạn",
+      "description":
+        "Quản lý thời gian của bạn với một danh sách các hoạt động đơn giản và thông minh và lên kế hoạch cho ngày của bạn. Cho dù là chuyên nghiệp hay cá nhân, Làm giúp bạn giảm bớt căng thẳng và tăng năng suất."
+    },
+    "zu-ZA": {
+      "name": "Ukwenza",
+      "subtitle": "Hlela futhi uhlele usuku lwakho",
+      "description":
+        "Phatha isikhathi sakho ngohlu olulula futhi oluhlakaniphile lwemisebenzi bese uhlela usuku lwakho kusengaphambili. Kungakhathaliseki ukuthi ichwepheshe noma ingumuntu siqu, Ukwenza iqeda ukucindezeleka kwakho futhi ikhulise umkhiqizo."
+    },
+    "zh-TW": {
+      "name": "代辦",
+      "subtitle": "組織和計劃你的每一天",
+      "description":
+        "用簡單而明智的活動清單管理你的時間，提前計劃你的一天。無論是專業的還是個人的，待辦事項都能緩解你的壓力，提高工作效率。"
+    },
+    "bg-BG": {
+      "name": "Да направя",
+      "subtitle": "Организирайте и планирайте деня си",
+      "description":
+        "Управлявайте времето си с прост и интелигентен списък с дейности и планирайте деня си напред. Независимо дали е професионален или личен, Да направя облекчава стреса и увеличава производителността."
+    },
+    "bn-IN": {
+      "name": "করতে",
+      "subtitle": "আপনার দিনকে সংগঠিত করুন এবং পরিকল্পনা করুন",
+      "description":
+        "ক্রিয়াকলাপগুলির একটি সহজ এবং বুদ্ধিমান তালিকার সাথে আপনার সময় পরিচালনা করুন এবং আপনার দিনকে সামনে রেখে পরিকল্পনা করুন। এটি পেশাদার বা ব্যক্তিগত যাই হোক না কেন, করতে আপনার চাপকে মুক্তি দেয় এবং উত্পাদনশীলতা বাড়ায়।"
+    },
+    "cs-CZ": {
+      "name": "ToDo",
+      "subtitle": "Uspořádejte a naplánujte si svůj den",
+      "description":
+        "Spravujte svůj čas pomocí jednoduchého a inteligentního seznamu aktivit a naplánujte si den dopředu. Ať už je to profesionální nebo osobní, ToDo zmírňuje váš stres a zvyšuje produktivitu."
+    },
+    "da-DK": {
+      "name": "At gøre",
+      "subtitle": "Organiser og planlæg din dag",
+      "description":
+        "Administrer din tid med en enkel og intelligent liste over aktiviteter og planlæg din dag i forvejen. Uanset om det er professionelt eller personligt, lindrer At gøre din stress og øger produktiviteten."
+    },
+    "el-GR": {
+      "name": "Να κάνω",
+      "subtitle": "Οργανώστε και σχεδιάστε τη μέρα σας",
+      "description":
+        "Διαχειριστείτε το χρόνο σας με μια απλή και έξυπνη λίστα δραστηριοτήτων και προγραμματίστε την ημέρα σας μπροστά. Είτε είναι επαγγελματικό είτε προσωπικό, το Να κάνω ανακουφίζει από το άγχος σας και αυξάνει την παραγωγικότητα."
+    },
+    "fa-IR": {
+      "name": "انجام دادن",
+      "subtitle": "روز خود را سازماندهی و برنامه ریزی کنید",
+      "description":
+        "وقت خود را با یک لیست ساده و هوشمند از فعالیت ها مدیریت کنید و روز آینده خود را برنامه ریزی کنید. انجام دادن چه حرفه ای و چه شخصی باشد ، استرس شما را از بین می برد و بهره وری را افزایش می دهد."
+    },
+    "fi-FI": {
+      "name": "Todo",
+      "subtitle": "Järjestä ja suunnittele päiväsi",
+      "description":
+        "Hallitse aikaa yksinkertaisella ja älykkäällä toimintaluettelolla ja suunnittele päiväsi eteenpäin. Olipa ammatillinen tai henkilökohtainen, ToDo lievittää stressiäsi ja lisää tuottavuutta"
+    },
+    "hi-HI": {
+      "name": "ऐसा करने",
+      "subtitle": "अपने दिन को व्यवस्थित करें और योजना बनाएं",
+      "description":
+        "गतिविधियों की एक सरल और बुद्धिमान सूची के साथ अपना समय प्रबंधित करें और अपने दिन की योजना बनाएं। चाहे वह पेशेवर हो या व्यक्तिगत, ऐसा करने  आपके तनाव को दूर करता है और उत्पादकता बढ़ाता है।"
+    },
+    "hr-HR": {
+      "name": "To-Do",
+      "subtitle": "Organizirajte i planirajte svoj dan",
+      "description":
+        "Upravljajte svojim vremenom pomoću jednostavnog i inteligentnog popisa aktivnosti i planirajte svoj dan unaprijed. Bilo da je profesionalno ili osobno, ToDo ublažava stres i povećava produktivnost"
+    },
+    "hu-HU": {
+      "name": "Todo",
+      "subtitle": "Szervezze meg és tervezze meg a napját",
+      "description":
+        "Kezelje idejét a tevékenységek egyszerű és intelligens listájával, és tervezze meg előre a napját. Akár szakmai, akár személyes, a ToDo enyhíti a stresszt és növeli a termelékenységet."
+    },
+    "id-ID": {
+      "name": "Todo",
+      "subtitle": "Atur dan rencanakan hari Anda",
+      "description":
+        "Kelola waktu Anda dengan daftar aktivitas yang sederhana dan cerdas dan rencanakan hari Anda ke depan. Baik profesional atau pribadi, ToDo mengurangi stres Anda dan meningkatkan produktivitas"
+    },
+    "it-IT": {
+      "name": "Todo",
+      "subtitle": "Organizza e pianifica la tua giornata",
+      "description":
+        "Gestisci il tuo tempo con un elenco di attività semplice e intelligente e pianifica la tua giornata in anticipo. Che sia professionale o personale, Todo allevia lo stress e aumenta la produttività"
+    },
+    "mk-MK": {
+      "name": "Да направиш",
+      "subtitle": "Организирајте го и испланирајте го вашиот ден",
+      "description":
+        "Управувајте со вашето време со едноставна и интелигентна листа на активности и испланирајте го вашиот ден напред. Без разлика дали е професионално или лично, Да направиш го ослободува вашиот стрес и ја зголемува продуктивноста."
+    },
+    "ms-MY": {
+      "name": "ToDo",
+      "subtitle": "Atur dan rancang hari anda",
+      "description":
+        "Urus masa anda dengan senarai aktiviti yang ringkas dan cerdas dan rancang hari anda di hadapan. Sama ada profesional atau peribadi, ToDo melegakan tekanan anda dan meningkatkan produktiviti"
+    },
+    "nb-NO": {
+      "name": "Å gjøre",
+      "subtitle": "Organiser og planlegg dagen din",
+      "description":
+        "Administrer tiden din med en enkel og intelligent liste over aktiviteter og planlegg dagen din fremover. Enten det er profesjonelt eller personlig, avlaster Å gjøre stresset ditt og øker produktiviteten"
+    },
+    "ne-IN": {
+      "name": "गर्नु पर्ने",
+      "subtitle": "तपाईंको दिन मिलाउनुहोस् र योजना गर्नुहोस्",
+      "description":
+        "गतिविधिहरूको एक सरल र बुद्धिमान सूचीको साथ तपाईंको समय प्रबन्ध गर्नुहोस् र तपाईंको दिन अगाडि योजना गर्नुहोस्। यसको व्यावसायिक वा व्यक्तिगत हो, गर्नु पर्ने ले तपाईंको तनाव कम गर्दछ र उत्पादकता बढाउँदछ।"
+    },
+    "nl-NL": {
+      "name": "Te doen",
+      "subtitle": "Organiseer en plan je dag",
+      "description":
+        "Beheer uw tijd met een eenvoudige en intelligente lijst met activiteiten en plan uw dag vooruit. Of het nu professioneel of persoonlijk is, Te doen verlicht uw stress en verhoogt de productiviteit."
+    },
+    "pl-PL": {
+      "name": "Do zrobienia",
+      "subtitle": "Zorganizuj i zaplanuj swój dzień",
+      "description":
+        "Zarządzaj swoim czasem za pomocą prostej i inteligentnej listy czynności i planuj swój dzień z wyprzedzeniem. Niezależnie od tego, czy jest to praca zawodowa, czy osobista, Do zrobienia  łagodzi stres i zwiększa produktywność. "
+    },
+    "sk-SK": {
+      "name": "ToDo",
+      "subtitle": "Usporiadajte a naplánujte si deň",
+      "description":
+        "Spravujte svoj čas jednoduchým a inteligentným zoznamom aktivít a naplánujte si deň dopredu. Či už je profesionálny alebo osobný, ToDo zmierňuje váš stres a zvyšuje produktivitu."
+    },
+    "sr-Latn-CS": {
+      "name": "Uraditi",
+      "subtitle": "Organizujte i planirajte svoj dan",
+      "description":
+        "Upravljajte svojim vremenom pomoću jednostavne i inteligentne liste aktivnosti i planirajte svoj dan unapred. Bez obzira da li je profesionalno ili lično, Uraditi ublažava stres i povećava produktivnost."
+    },
+    "sv-SE": {
+      "name": "Att göra",
+      "subtitle": "Organisera och planera din dag",
+      "description":
+        "Hantera din tid med en enkel och intelligent lista över aktiviteter och planera din dag framåt. Oavsett om det är professionellt eller personligt, lindrar Att göra din stress och ökar produktiviteten."
+    },
+    "sw-ZA": {
+      "name": "Kufanya",
+      "subtitle": "Panga na panga siku yako",
+      "description":
+        "Dhibiti wakati wako na orodha rahisi ya shughuli na upange siku yako mbele. Iwe mtaalamu wake au wa kibinafsi, Kufanya hupunguza mafadhaiko yako na huongeza tija."
+    },
+    "ta-IN": {
+      "name": "செய்ய",
+      "subtitle": "உங்கள் நாளை ஒழுங்கமைத்து திட்டமிடவும்",
+      "description":
+        "எளிமையான மற்றும் புத்திசாலித்தனமான செயல்பாடுகளின் பட்டியலுடன் உங்கள் நேரத்தை நிர்வகிக்கவும், உங்கள் நாளை முன்னதாக திட்டமிடவும். டோடோ அதன் தொழில்முறை அல்லது தனிப்பட்டதாக இருந்தாலும், டோடோ உங்கள் மன அழுத்தத்தை நீக்கி, உற்பத்தித்திறனை அதிகரிக்கும்."
+    },
+    "th-TH": {
+      "name": "ถึง ทำ",
+      "subtitle": "จัดระเบียบและวางแผนวันของคุณ",
+      "description":
+        "จัดการเวลาของคุณด้วยรายการกิจกรรมที่เรียบง่ายและชาญฉลาด และวางแผนวันของคุณล่วงหน้า ไม่ว่าจะเป็นมืออาชีพหรือส่วนตัว  ถึง ทำ ช่วยลดความเครียดและเพิ่มผลผลิต"
+    },
+    "tr-TR": {
+      "name": "To yap",
+      "subtitle": "Gününüzü düzenleyin ve planlayın",
+      "description":
+        "Basit ve akıllı bir etkinlik listesiyle zamanınızı yönetin ve gününüzü önceden planlayın. İster profesyonel ister kişisel olsun,To yap stresinizi azaltır ve üretkenliği artırır."
+    },
+    "ur-PK": {
+      "name": "کرنے کے لئے",
+      "subtitle": "اپنے دن کو منظم اور منصوبہ بنائیں",
+      "description":
+        "سرگرمیوں کی ایک سادہ اور ذہین فہرست کے ساتھ اپنے وقت کا انتظام کریں اور آگے اپنے دن کی منصوبہ بندی کریں۔ چاہے وہ پیشہ ورانہ ہو یا ذاتی ، ٹوڈو آپ کے تناؤ کو دور کرتا ہے اور پیداوری میں اضافہ کرتا ہے۔"
+    },
+    "ro-RO": {
+      "name": "Todo",
+      "subtitle": "Organizați-vă și planificați-vă ziua",
+      "description":
+        "Gestionați-vă timpul cu o listă simplă și inteligentă de activități și planificați-vă ziua în avans. Indiferent dacă este profesional sau personal, ToDo vă ameliorează stresul și crește productivitatea."
+    },
+    "af-ZA": {
+      "name": "Todo",
+      "subtitle": "Organiseer en beplan u dag",
+      "description":
+        "Beheer u tyd met 'n eenvoudige en intelligente lys aktiwiteite en beplan u dag vooruit. Of dit nou professioneel of persoonlik is, ToDo verlig u spanning en verhoog produktiwiteit."
+    },
+    "xh-ZA": {
+      "name": "Ukwenza",
+      "subtitle": "Lungiselela kwaye ucwangcise usuku lwakho",
+      "description":
+        "Lawula ixesha lakho ngoluhlu olulula nolunengqiqo lwemisebenzi kwaye ucwangcise usuku lwakho phambili. Nokuba ingobuchwephesha okanye bobuqu, Ukwenza isusa uxinzelelo lwakho kwaye inyuse imveliso."
+    },
+    "am-ET": {
+      "name": "የሚሰሩ ነገሮች ዝርዝር",
+      "subtitle": "ቀንዎን ያደራጁ እና ያቅዱ",
+      "description":
+        "ጊዜዎን ቀላል እና ብልህ በሆነ የእንቅስቃሴዎች ዝርዝር ያስተዳድሩ እና ቀጣይ ቀንዎን ያቅዱ። የሙያም ሆነ የግል፣ የሚሰሩ ነገሮች ዝርዝር ጭንቀትዎን ያስታግሳል እንዲሁም ምርታማነትን ይጨምራል።"
+    },
+    "om-ET": {
+      "name": "Tuuduu",
+      "subtitle": "Guyyaa kee qindeeffadhuu karoorfadhu",
+      "description":
+        "Yeroo kee tarreeffama hojiiwwanii salphaafi ogummaan guutaniin to'adhuutii guyyaa fuula kee duraatiif karoorfadhu. Hojii waajjiraatiifis ta'e kan dhuunfaatiif, TuuDuu'n dhiphina kee irraa si furee oomishtummaa kee dabala."
+    }
+  },
+  "icons": {
+    "56": "/resources/icons/todo56.png",
+    "84": "/resources/icons/todo84.png",
+    "112": "/resources/icons/todo112.png"
+  },
+  "orientation": "default",
+  "activities": {},
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "origin": "app://kaios.todo.net"
+}

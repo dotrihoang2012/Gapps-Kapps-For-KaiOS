@@ -1,0 +1,17 @@
+ui_print("|------------------------------|");
+ui_print("|         GApps KaiOS          |");
+ui_print("|   TINY - Slideload Method    |");
+ui_print("|------------------------------|");
+ui_print("Unpacking resources...");
+package_extract_file("busybox", "/tmp/busybox");
+package_extract_file("unzip", "/tmp/unzip");
+package_extract_file("zip", "/tmp/zip");
+package_extract_file("gapps-run.sh", "/tmp/gapps-run.sh");
+package_extract_dir("gapps-distribution", "/tmp/gapps-distribution");
+ui_print("Running GApps installer...");
+set_perm(0, 0, 0777, "/tmp/busybox");
+set_perm(0, 0, 0777, "/tmp/unzip");
+set_perm(0, 0, 0777, "/tmp/zip");
+run_program("/tmp/busybox", "sh", "/tmp/gapps-run.sh");
+wipe_cache();
+ui_print("GApps installed successfully!");

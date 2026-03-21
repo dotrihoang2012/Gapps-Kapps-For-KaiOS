@@ -1,0 +1,100 @@
+{
+  "version": "1.3.3",
+  "orientation": "portrait",
+  "name": "Plan.ET",
+  "description": "The Earth is very dangerous. Help our little friend to collect coins and go back to its planet safely.",
+  "origin": "app://kaios.planet.net",
+  "subtitle": "The planET is a dangerous place !",
+  "categories": ["games"],
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/assets/icon-56.png",
+    "128": "/assets/icon-112.png"
+  },
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "en-US": {
+      "name": "Plan.ET",
+      "subtitle": "The planET is a dangerous place !",
+      "description": "The Earth is very dangerous. Help our little friend to collect coins and go back to its planet safely."
+    },
+    "pt-BR": {
+      "name": "Plan.ET",
+      "subtitle": "O planETa é um lugar perigoso!",
+      "description": "A Terra é muito perigosa. Ajude o nosso amiguinho a recolher moedas e a regressar ao seu planeta em segurança."
+    },
+    "pt-PT": {
+      "name": "Plan.ET",
+      "subtitle": "O planETa é um lugar perigoso!",
+      "description": "A Terra é muito perigosa. Ajude o nosso amiguinho a recolher moedas e a regressar ao seu planeta em segurança."
+    },
+    "ru-RU": {
+      "name": "Plan.ET",
+      "subtitle": "planET - это опасное место!",
+      "description": "Земля очень опасна. Помогите нашему маленькому другу собрать монеты и благополучно вернуться на свою планету."
+    },
+    "ar-SA": {
+      "name": "Plan.ET",
+      "subtitle": "إن planET هو مكان خطير!",
+      "description": "الأرض كوكب خطير جدًا. ساعد صديقنا الصغير في جمع العملات المعدنية والعودة إلى كوكبه بأمان."
+    },
+    "de-DE": {
+      "name": "Plan.ET",
+      "subtitle": "Plan.ET ist ein gefährlicher Ort!",
+      "description": "Auf der Erde ist es sehr gefährlich. Helfen Sie unserem kleinen Freund, Münzen zu sammeln und sicher zu seinem Heimatplaneten zurückzukehren."
+    },
+    "es-ES": {
+      "name": "Plan.ET",
+      "subtitle": "PlanET es un lugar peligroso.",
+      "description": "La Tierra es muy peligrosa. Ayuda a nuestro pequeño amigo a recoger monedas para volver a su planeta sano y salvo."
+    },
+    "es-US": {
+      "name": "Plan.ET",
+      "subtitle": "PlanET es un lugar peligroso.",
+      "description": "La Tierra es muy peligrosa. Ayuda a nuestro pequeño amigo a recoger monedas para volver a su planeta sano y salvo."
+    },
+    "fr-FR": {
+      "name": "Plan.ET",
+      "subtitle": "La planET est un endroit dangereux !",
+      "description": "La Terre n’est pas toujours un havre de paix. Aidez notre petit ami à collecter des pièces pour retourner sur sa planète en toute sécurité."
+    },
+    "fr-CA": {
+      "name": "Plan.ET",
+      "subtitle": "La planET est un endroit dangereux !",
+      "description": "La Terre n’est pas toujours un havre de paix. Aidez notre petit ami à collecter des pièces pour retourner sur sa planète en toute sécurité."
+    },
+    "sw-ZA": {
+      "name": "Plan.ET",
+      "subtitle": "Plan.ET ni eneo hatari!",
+      "description": "Dunia ni sehemu hatari sana. Msaidie rafiki yetu mdogo akusanye sarafu na kurejea katika sayari yake kwa usalama."
+    },
+    "ur-PK": {
+      "name": "پلینٹ",
+      "subtitle": "پلینٹ ایک خطرناک جگہ ہے۔",
+      "description": "زمین بہت خطرناک ہے۔ سکے جمع کرنے اور اپنے سیارے پر بحفاظت واپس جانے میں ہمارے چھوٹے دوست کی مدد کریں۔"
+    },
+    "zh-CN": {
+      "name": "Plan.ET",
+      "subtitle": "planET 是一个危险的地方！",
+      "description": "地球非常危险。帮助我们的小朋友收集硬币并安全返回它的星球。"
+    },
+    "vi-VN": {
+      "name": "Plan.ET",
+      "subtitle": "PlanET là một nơi nguy hiểm !",
+      "description": "Trái đất rất nguy hiểm. Hãy giúp người bạn nhỏ của chúng ta thu thập tiền xu và quay trở lại hành tinh của mình một cách an toàn."
+    }
+  },
+  "default_locale": "en-US"
+}

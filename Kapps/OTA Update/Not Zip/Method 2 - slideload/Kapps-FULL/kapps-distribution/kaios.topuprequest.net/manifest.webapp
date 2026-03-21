@@ -1,0 +1,75 @@
+{
+  "version": "1.0.4",
+  "name": "Top-up Request",
+  "subtitle": "Request mobile plan top-up now",
+  "description": "Ask your family and friends to top up your mobile minutes or data anytime, anywhere.",
+  "type": "certified",
+  "theme_color": "#6F02B5",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/assets/icons/top-up-request_56.png",
+    "112": "/assets/icons/top-up-request_112.png"
+  },
+  "developer": {
+    "name": "KaiOS",
+    "url": "https://www.kaiostech.com"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Top-up Request",
+      "subtitle": "Request mobile plan top-up now",
+      "description": "Ask your family and friends to top up your mobile minutes or data anytime, anywhere."
+    },
+    "es": {
+      "name": "Solicitud de recarga",
+      "subtitle": "Solicite la recarga del plan móvil ahora",
+      "description": "Pídale a su familia y amigos que recarguen sus minutos o datos móviles en cualquier momento y lugar."
+    },
+    "es-ES": {
+      "name": "Solicitud de recarga",
+      "subtitle": "Solicite la recarga del plan móvil ahora",
+      "description": "Pídale a su familia y amigos que recarguen sus minutos o datos móviles en cualquier momento y lugar."
+    },
+    "es-MX": {
+      "name": "Solicitud de recarga",
+      "subtitle": "Solicite la recarga del plan móvil ahora",
+      "description": "Pídale a su familia y amigos que recarguen sus minutos o datos móviles en cualquier momento y lugar."
+    },
+    "es-US": {
+      "name": "Solicitud de recarga",
+      "subtitle": "Solicite la recarga del plan móvil ahora",
+      "description": "Pídale a su familia y amigos que recarguen sus minutos o datos móviles en cualquier momento y lugar."
+    },
+    "fr": {
+      "name": "Demande de recharge",
+      "subtitle": "Demander une recharge de forfait mobile maintenant",
+      "description": "Demandez à tout moment à votre entourage de n'importe où de recharger votre forfait mobile."
+    },
+    "fr-FR": {
+      "name": "Demande de recharge",
+      "subtitle": "Demander une recharge de forfait mobile maintenant",
+      "description": "Demandez à tout moment à votre entourage de n'importe où de recharger votre forfait mobile."
+    },
+    "fr-CA": {
+      "name": "Demande de recharge",
+      "subtitle": "Demander une recharge de forfait mobile maintenant",
+      "description": "Demandez à tout moment à votre entourage de n'importe où de recharger votre forfait mobile."
+    },
+    "sw-ZA": {
+      "name": "Ombi la Kuongeza",
+      "subtitle": "Omba mpango wa rununu ujiongeze sasa",
+      "description": "Uliza familia yako na marafiki kuongeza dakika zako za data au data wakati wowote, mahali popote."
+    },
+    "ar-SA": {
+      "name": "طلب تعبئة رصيد",
+      "subtitle": "اطلب تعبئة خطة الهاتف المحمول الآن",
+      "description": "اطلب من عائلتك وأصدقائك زيادة رصيد دقائق أو بيانات هاتفك المحمول في أي وقت وفي أي مكان."
+    },
+    "ur": {
+      "name": "ٹاپ اپ کی درخواست",
+      "subtitle": "موبائل پلان ٹاپ اپ کی درخواست کریں",
+      "description": "اپنے اہل خانہ اور دوستوں سے کہیں کہ وہ اپنے موبائل منٹس یا ڈیٹا کو کسی بھی وقت، کہیں بھی ٹاپ اپ کریں۔"
+    }
+  },
+  "default_locale": "en-US"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Lifev2",
+  "version": "3.1.0",
+  "short_name": "Life App",
+  "description": "The Life app provides interesting and credible information for everyone looking to learn something new!",
+  "subtitle": "Daily new content on interesting topics!",
+  "theme_color": "#70CD00",
+  "type": "certified",
+  "default_locale": "en-US",
+  "locales": {
+    "en-US": {
+      "name": "Life",
+      "description": "The Life app provides interesting and credible information for everyone looking to learn something new!",
+      "subtitle": "Daily new content on interesting topics!"
+    },
+    "fr-FR": {
+      "name": "Life",
+      "description": "L'application Life livre des infos quotidiennes sur vos sujets locaux essentiels pour une vie meilleure.",
+      "subtitle": "Infos journalières sur vos sujets cles!"
+    },
+    "es-ES": {
+      "name": "Life",
+      "description": "La aplicación Life proporciona contenido diario sobre temas locales esenciales para ayudarlo a tener una vida mejor.",
+      "subtitle": "Contenido diario sobre temas esenciales"
+    }
+  },
+  "permissions": {
+    "spatialnavigation-app-manage": {},
+    "cloud-authorization": {},
+    "systemXHR": {}
+  },
+  "dependencies": {
+    "ads-sdk": "1.4.1"
+  },
+
+  "categories": ["life style, book/reference, health"],
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icons/icon56x56.png",
+    "84": "/icons/icon84x84.png",
+    "112": "/icons/icon112x112.png",
+    "224": "/icons/icon224x224.png"
+  },
+  "developer": {
+    "name": "KaiOS",
+    "url": "https://www.kaiostech.com/"
+  },
+  "origin": "app://lifeapp-v2.com"
+}

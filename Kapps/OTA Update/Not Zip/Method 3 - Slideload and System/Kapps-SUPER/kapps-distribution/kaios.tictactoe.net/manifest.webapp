@@ -1,0 +1,59 @@
+{
+    "version": "1.0.5",
+    "name": "Tic Tac Toe Lite",
+    "description": "A game in which two players take turns drawing either a 'O' or a 'X' in one square of a nine square grid. The winner is the first player in a line to earn three of the same symbols.",
+	"subtitle": "Find a teammate and get three in a row!",
+    "type": "web",
+    "launch_path": "/index.html",
+    "icons": {
+        "56": "/assets/tic-tac-toe_56.png",
+        "112": "/assets/tic-tac-toe_112.png"
+    },
+    "developer": {
+        "name": "KaiOS",
+        "url": "https://kaiostech.com/"
+    },
+    "locales": {
+        "en-US": {
+            "name": "Tic Tac Toe",
+            "subtitle": "Find a teammate and get three in a row!",
+            "description": "A game in which two players take turns drawing either a 'O' or a 'X' in one square of a nine square grid. The winner is the first player in a line to earn three of the same symbols."
+        },
+        "es-ES": {
+            "name": "Tic Tac Toe",
+            "subtitle": "",
+            "description": ""
+        },
+        "es-US": {
+            "name": "Tic Tac Toe",
+            "subtitle": "",
+            "description": ""
+        },
+        "fr-FR": {
+            "name": "Tic Tac Toe",
+            "subtitle": "",
+            "description": ""
+        },
+        "fr-CA": {
+            "name": "Tic Tac Toe",
+            "subtitle": "",
+            "description": ""
+        },
+        "sw-ZA": {
+            "name": "Tic Tac Toe",
+            "subtitle": "",
+            "description": ""
+        },
+        "zh-CN": {
+            "name": "井字棋",
+            "subtitle": "找到一个队友，连成一线并获得胜利！",
+            "description": "一个益智游戏，其中两个玩家轮流在九个正方形网格的一个正方形中绘制「O」或「X」。 获胜者将会是第一个在该横、直、斜行中赢得三个相同符号的玩家。"
+        }
+    },
+    "categories": "games",
+    "default_locale": "en-US",
+    "permissions": {
+        "mobiledata": {},
+        "wifidata": {}
+    }
+}

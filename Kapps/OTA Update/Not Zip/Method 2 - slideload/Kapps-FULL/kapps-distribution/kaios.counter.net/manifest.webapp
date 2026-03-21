@@ -1,0 +1,80 @@
+{
+  "version": "1.2.3",
+  "name": "Counter",
+  "categories": ["utilities"],
+  "description": "Whether you're looking to track caloric intake, steps made, or how many visitors have stopped by your market booth, Counter has you covered! Simply count up or down.",
+  "subtitle": "This app helps you count anything",
+  "launch_path": "/index.html",
+  "type": "web",
+  "permissions": {
+    "mobiledata": {},
+    "wifidata": {}
+  },
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "origin": "app://kaios.counter.net",
+  "theme_color": "#3d5dff",
+  "default_locale": "en-US",
+  "locales": {
+    "en-US": {
+      "name": "Counter",
+      "description": "Whether you're looking to track caloric intake, steps made, or how many visitors have stopped by your market booth, Counter has you covered! Simply count up or down using the OK and Down buttons on your keyboard.",
+      "subtitle": "This app helps you count anything"
+    },
+    "pt-BR": {
+      "name": "Contador",
+      "subtitle": "Esta aplicação ajuda-o a contar o que pretender",
+      "description": "Quer procure registar a ingestão de calorias, os passos dados ou quantos visitantes pararam na sua banca, o Contador ajuda-o! Basta aumentar ou diminuir a contagem utilizando os botões OK e Para baixo no teclado."
+    },
+    "pt-PT": {
+      "name": "Contador",
+      "subtitle": "Esta aplicação ajuda-o a contar o que pretender",
+      "description": "Quer procure registar a ingestão de calorias, os passos dados ou quantos visitantes pararam na sua banca, o Contador ajuda-o! Basta aumentar ou diminuir a contagem utilizando os botões OK e Para baixo no teclado."
+    },
+    "ru-RU": {
+      "name": "Счётчик",
+      "subtitle": "Это приложение поможет вам посчитать всё, что угодно",
+      "description": "Если вы хотите отслеживать потребление калорий, количество шагов или количество посетителей, остановившихся у вашего магазина, Counter - то, что вам нужно! Просто считайте вверх или вниз, используя кнопки ОК и Вниз на клавиатуре."
+    },
+    "ar-SA": {
+      "name": "Counter",
+      "subtitle": "يساعدك هذا التطبيق على عد أي شيء",
+      "description": "سواء كنت تتطلع إلى تتبع السعرات الحرارية أو الخطوات التي سرتها أو عدد الزوار الذين توقفوا عند كشك التسوق الخاص بك، فإن Counter هو التطبيق المناسب لك! ما عليك سوى العد لأعلى أو لأسفل باستخدام الزرين \"موافق\" و \"لأسفل\" على لوحة المفاتيح."
+    },
+    "de-DE": {
+      "name": "Counter",
+      "subtitle": "Diese App zählt alles",
+      "description": "Ob Sie die zu sich genommenen Kalorien, zurückgelegten Schritte oder Besucher Ihres Markstandes zählen möchten – Counter ist dabei! Mit der OK- und Nach-unten-Taste auf der Tastatur ist das Zählen ein Kinderspiel."
+    },
+    "es-ES": {
+      "name": "Contador",
+      "subtitle": "Esta aplicación te ayuda a contar cualquier cosa",
+      "description": "Si quieres controlar tu ingesta diaria de calorías, contar los pasos que caminas o saber cuántos visitantes se han detenido en tu puesto del mercado, Contador es tu aplicación. Cuenta hacia delante o hacia atrás con los botones OK y la flecha hacia abajo del teclado."
+    },
+    "es-US": {
+      "name": "Contador",
+      "subtitle": "Esta aplicación te ayuda a contar cualquier cosa",
+      "description": "Si quieres controlar tu ingesta diaria de calorías, contar los pasos que caminas o saber cuántos visitantes se han detenido en tu puesto del mercado, Contador es tu aplicación. Cuenta hacia delante o hacia atrás con los botones OK y la flecha hacia abajo del teclado."
+    },
+    "fr-FR": {
+      "name": "Compteur",
+      "subtitle": "Une application sur laquelle vous pouvez compter",
+      "description": "Que vous cherchiez à suivre votre consommation en calories ou à savoir le nombre de personnes qui visitent votre stand d’exposition de produits, Compteur est là ! Appuyez sur la touche OK ou Bas de votre clavier pour respectivement augmenter ou réduire le décompte."
+    },
+    "fr-CA": {
+      "name": "Compteur",
+      "subtitle": "Une application sur laquelle vous pouvez compter",
+      "description": "Que vous cherchiez à suivre votre consommation en calories ou à savoir le nombre de personnes qui visitent votre stand d’exposition de produits, Compteur est là ! Appuyez sur la touche OK ou Bas de votre clavier pour respectivement augmenter ou réduire le décompte."
+    }
+  },
+  "icons": {
+    "56": "/resources/icons/counter_56.png",
+    "112": "/resources/icons/counter_112.png"
+  },
+  "orientation": "default",
+  "chrome": {
+    "statusbar": "overlap"
+  }
+}

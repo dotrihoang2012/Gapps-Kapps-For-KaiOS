@@ -1,0 +1,56 @@
+{
+  "name": "Activity",
+  "version": "1.0.0",
+  "subtitle": "Monitor your physical activity",
+  "description":
+    "Walk, run or bike while having Activity monitor your fitness levels and provide information regarding your route, temperature and the current elevation. Connect Activity to your Strava account to share your results with friends",
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "categories": ["sports"],
+  "launch_path": "/index.html",
+  "type": "certified",
+  "permissions": {
+    "storage": {},
+    "audio-channel-notification": {},
+    "geolocation": {},
+    "settings": { "access": "readonly" },
+    "sandboxed-cookies": {},
+    "permissions": {},
+    "bluetooth": {}
+  },
+  "origin": "app://kaios.activity.net",
+  "theme_color": "#FF3F54",
+  "default_locale": "en-US",
+  "locales": {
+    "en-US": {
+      "name": "Activity",
+      "subtitle": "Monitor your physical activity",
+      "description":
+        "Walk, run or bike while having Activity monitor your fitness levels and provide information regarding your route, temperature and the current elevation. Connect Activity to your Strava account to share your results with friends"
+    },
+    "pt-BR": {
+      "name": "Atividade",
+      "subtitle": "Monitore sua atividade física",
+      "description":
+        "Caminhe, corra ou ande de bicicleta enquanto o Atividade monitora seus níveis de condicionamento físico e forneça informações sobre sua rota, temperatura e altitude atual. Conecte o Atividade à sua conta Strava para compartilhar seus resultados com amigos"
+    }
+  },
+  "icons": {
+    "56": "/resources/icons/activity_56.png",
+    "84": "/resources/icons/activity_84.png",
+    "112": "/resources/icons/activity_112.png"
+  },
+  "orientation": "default",
+  "activities": {},
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "redirects": [
+    {
+      "from": "https://www.kaiostech.com",
+      "to": "/redirect.html"
+    }
+  ]
+}

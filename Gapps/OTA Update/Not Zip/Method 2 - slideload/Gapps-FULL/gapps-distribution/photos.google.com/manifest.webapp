@@ -1,0 +1,24 @@
+{
+	"name": "Google Photos",
+	"description": "Google Photos",
+	"type": "certified",
+	"fullscreen": true,
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://photos.google.com/",
+	"developer": {
+		"name": "Ivan",
+		"url": "https://photos.google.com"
+	},
+	"default_locale": "en-US",
+	"display": "News",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Google Photos"
+		}
+	},
+	"icons": {
+		"128": "/picasa.png"
+	}
+}

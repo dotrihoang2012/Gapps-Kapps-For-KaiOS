@@ -1,0 +1,87 @@
+{
+  "name": "Magnify",
+  "version": "1.0.9",
+  "subtitle": "Capture and enhance document readability",
+  "description": "Use the Magnify app to photograph documents and make text easier to read, through filter overlays.",
+  "categories": [
+    "utilities"
+  ],
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "type": "privileged",
+  "permissions": {
+    "camera": {},
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "dependencies": {
+    "ads-sdk": "1.3.0"
+  },
+  "theme_color": "#8500DB",
+  "locales": {
+    "en-US": {
+      "name": "Magnify",
+      "subtitle": "Capture and enhance document readability",
+      "description": "Use the Magnify app to photograph documents and make text easier to read, through filter overlays."
+    },
+    "pt-BR": {
+      "name": "Ampliar",
+      "subtitle": "Capture e aumente a legibilidade de documentos",
+      "description": "Utilize a aplicação Ampliar para fotografar documentos e tornar o texto mais fácil de ler, através de sobreposições de filtros."
+    },
+    "pt-PT": {
+      "name": "Ampliar",
+      "subtitle": "Capture e aumente a legibilidade de documentos",
+      "description": "Utilize a aplicação Ampliar para fotografar documentos e tornar o texto mais fácil de ler, através de sobreposições de filtros."
+    },
+    "ru-RU": {
+      "name": "Лупа",
+      "subtitle": "Фотографирует и улучшает читаемость документа",
+      "description": "Используйте приложение «Лупа» для фотографирования документов и облегчения чтения текста с помощью наложений фильтров."
+    },
+    "ar-SA": {
+      "name": "Magnify",
+      "subtitle": "قم بالتقاط وتحسين قراءة المستندات",
+      "description": "استخدم تطبيق Magnify لتصوير المستندات وجعل النص أسهل في القراءة، من خلال تراكبات المرشحات."
+    },
+    "de-DE": {
+      "name": "Magnify",
+      "subtitle": "Dokumente erfassen und besser lesbar machen",
+      "description": "Mit der Magnify-App können Sie Dokumente fotografieren und den Text mit Filter-Overlays besser lesbar machen."
+    },
+    "es-ES": {
+      "name": "Magnificar",
+      "subtitle": "Captura y mejora la legibilidad del documento",
+      "description": "Utiliza la aplicación Magnificar para fotografiar documentos y facilitar la lectura a través de filtros."
+    },
+    "es-US": {
+      "name": "Magnificar",
+      "subtitle": "Captura y mejora la legibilidad del documento",
+      "description": "Utiliza la aplicación Magnificar para fotografiar documentos y facilitar la lectura a través de filtros."
+    },
+    "fr-FR": {
+      "name": "Loupe",
+      "subtitle": "Capturer et améliorer la lisibilité des documents",
+      "description": "Utilisez l’application Loupe pour photographier des documents et faciliter la lecture du texte à l’aide de filtres superposés."
+    },
+    "fr-CA": {
+      "name": "Loupe",
+      "subtitle": "Capturer et améliorer la lisibilité des documents",
+      "description": "Utilisez l’application Loupe pour photographier des documents et faciliter la lecture du texte à l’aide de filtres superposés."
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "56": "/resources/icons/magnify_56.png",
+    "112": "/resources/icons/magnify_112.png"
+  },
+  "orientation": "default",
+  "activities": {},
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "origin": "app://kaios.magnify.net"
+}

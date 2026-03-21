@@ -1,0 +1,100 @@
+{
+  "version": "1.4.2",
+  "name": "Birdy",
+  "orientation": "portrait",
+  "description": "Keep your Birdy safe by guiding him through the jungle, dodging the pipes that pop up along the way. Stay for as long as possible, in order to obtain the new high score!",
+  "subtitle": "Birdy's adventures through the jungle",
+  "launch_path": "/index.html",
+  "categories": ["games"],
+  "origin": "app://kaios.birdy.net",
+  "icons": {
+    "56": "/assets/icon-56.png",
+    "112": "/assets/icon-112.png"
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "en-US": {
+      "name": "Birdy",
+      "description": "Keep your Birdy safe by guiding him through the jungle, dodging the pipes that pop up along the way. Stay for as long as possible, in order to obtain the new high score!",
+      "subtitle": "Birdy's adventures through the jungle"
+    },
+    "pt-BR": {
+      "name": "Birdy",
+      "subtitle": "As aventuras de Birdy na selva",
+      "description": "Mantenha o Birdy seguro orientando-o pela selva e desviando-o dos tubos que aparecem no caminho. Continue o máximo que conseguir para obter uma nova pontuação máxima!"
+    },
+    "pt-PT": {
+      "name": "Birdy",
+      "subtitle": "As aventuras de Birdy na selva",
+      "description": "Mantenha o Birdy seguro orientando-o pela selva e desviando-o dos tubos que aparecem no caminho. Continue o máximo que conseguir para obter uma nova pontuação máxima!"
+    },
+    "ru-RU": {
+      "name": "Birdy",
+      "subtitle": "Приключения птичек в джунглях",
+      "description": "Держите свою птичку в безопасности, проводя её через джунгли, уклоняясь от труб, которые появляются по пути. Продержитесь как можно дольше, чтобы получить новый рекорд!"
+    },
+    "ar-SA": {
+      "name": "BIRDY",
+      "subtitle": "مغامرات بيردي عبر الغابة",
+      "description": "حافظ على أمان Birdy الخاص بك عن طريق توجيهه عبر الغابة، وتفادى الأنابيب المنبثقة على طول الطريق. ابق لأطول فترة ممكنة، من أجل تحقيق درجة عالية قياسية جديدة!"
+    },
+    "de-DE": {
+      "name": "Birdy",
+      "subtitle": "Birdys Abenteuer durch den Dschungel",
+      "description": "Helfen Sie Birdy dabei, sicher durch den Dschungel zu kommen und den Rohren auf dem Weg auszuweichen. Je länger Sie durchhalten, desto mehr Punkte erzielen Sie!"
+    },
+    "es-ES": {
+      "name": "Birdy",
+      "subtitle": "Las aventuras de Birdy en la jungla",
+      "description": "Mantén a Birdy a salvo y guíalo a través de la jungla mientras esquivas los obstáculos que aparecen a lo largo del camino. Aguanta todo lo que puedas para conseguir un nuevo récord."
+    },
+    "es-US": {
+      "name": "Birdy",
+      "subtitle": "Las aventuras de Birdy en la jungla",
+      "description": "Mantén a Birdy a salvo y guíalo a través de la jungla mientras esquivas los obstáculos que aparecen a lo largo del camino. Aguanta todo lo que puedas para conseguir un nuevo récord."
+    },
+    "fr-FR": {
+      "name": "Birdy",
+      "subtitle": "Les aventures de Birdy dans la jungle",
+      "description": "Protégez votre Birdy en le guidant à travers la jungle, en évitant les tuyaux qui apparaissent sur le chemin. Restez le plus longtemps possible afin d’obtenir le nouveau meilleur score."
+    },
+    "fr-CA": {
+      "name": "Birdy",
+      "subtitle": "Les aventures de Birdy dans la jungle",
+      "description": "Protégez votre Birdy en le guidant à travers la jungle, en évitant les tuyaux qui apparaissent sur le chemin. Restez le plus longtemps possible afin d’obtenir le nouveau meilleur score."
+    },
+    "sw-ZA": {
+      "name": "Birdy",
+      "subtitle": "Jusura ya ndege nyikani",
+      "description": "Mlinde Ndege wako kwa kumwelekeza katika nyika, kwepa mabomba yanayojitokeza njiani. Kaa mkondoni kwa muda mrefu uwezavyo ili upate alama mpya ya juu!"
+    },
+    "ur-PK": {
+      "name": "برڈی",
+      "subtitle": "جنگل میں چڑیا کی مہمات",
+      "description": "جنگل میں اپنے برڈی کی رہنمائی کریں اور راستے میں  یکایک ابھرنے والے پائپوں کو چکما دے کر برڈی کو محفوظ رکھیں۔"
+    },
+    "zh-CN": {
+      "name": "Birdy",
+      "subtitle": "一款鸟儿丛林历险游戏",
+      "description": "引导鸟儿穿越丛林，躲避沿途出现的障碍物，确保鸟儿安全。停留尽可能长的时间，才能获得新高分！"
+    },
+    "vi-VN": {
+      "name": "Birdy",
+      "subtitle": "Cuộc phiêu lưu của Birdy qua rừng rậm",
+      "description": "Giúp Birdy của bạn được an toàn bằng cách hướng dẫn chú chim đi qua rừng rậm, tránh các đường ống bật lên trên đường đi. Ở lại lâu nhất có thể, để có được điểm số cao mới!"
+    }
+  },
+  "default_locale": "en-US"
+}

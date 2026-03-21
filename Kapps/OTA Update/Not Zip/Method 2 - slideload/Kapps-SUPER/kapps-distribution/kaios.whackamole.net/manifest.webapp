@@ -1,0 +1,100 @@
+{
+  "version": "1.2.8",
+  "name": "Whackamole",
+  "orientation": "portrait",
+  "description": "Arcade game in which you quickly and repeatedly hit the heads of moles with a mallet as they pop up from holes to accumulate points.",
+  "subtitle": "Be quick and hit the moles!",
+  "launch_path": "/index.html",
+  "categories": ["games"],
+  "origin": "app://kaios.whackamole.net",
+  "icons": {
+    "56": "/assets/icon-56.png",
+    "128": "/assets/icon-112.png"
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "locales": {
+    "en-US": {
+        "name": "Whack a Mole",
+        "subtitle": "Be quick and hit the moles!",
+        "description": "Arcade game in which you quickly and repeatedly hit the heads of moles with a mallet as they pop up from holes to accumulate points."
+      },
+    "pt-BR": {
+      "name": "Whack a Mole",
+      "subtitle": "Seja rápido e atinja as toupeiras!",
+      "description": "Jogo arcade no qual tem de atingir as cabeças das toupeiras de forma rápida e repetida com uma marreta à medida que aparecem nos buracos para acumular pontos."
+    },
+    "pt-PT": {
+      "name": "Whack a Mole",
+      "subtitle": "Seja rápido e atinja as toupeiras!",
+      "description": "Jogo arcade no qual tem de atingir as cabeças das toupeiras de forma rápida e repetida com uma marreta à medida que aparecem nos buracos para acumular pontos."
+    },
+    "ru-RU": {
+      "name": "Whack a Mole",
+      "subtitle": "Будь быстрей, ударь крота!",
+      "description": "Аркадная игра, в которой для получения очков требуется быстро и многократно ударять молотком по головкам кротов, когда они выскакивают из нор."
+    },
+    "ar-SA": {
+      "name": "Whack a Mole",
+      "subtitle": "كن سريعًا واضرب حيوانات الخلد!",
+      "description": "لعبة آركيد تضرب فيها رؤوس حيوانات الخلد بسرعة وبشكل متكرر باستخدام مطرقة بينما تخرج فجأة من الثقوب لتجميع النقاط."
+    },
+    "de-DE": {
+      "name": "Whack a Mole",
+      "subtitle": "Sie müssen schnell sein, wenn Sie die Maulwürfe erwischen wollen!",
+      "description": "In diesem Arcade-Spiel müssen Sie die Maulwürfe, die immer nur kurz aus ihren Löchern spitzen, mit einem Hammer treffen, um Punkte zu erzielen."
+    },
+    "es-ES": {
+      "name": "Whack a Mole",
+      "subtitle": "¡Sé rápido y aplasta a los topos!",
+      "description": "Un juego de Arcade donde deberás golpear rápida y repetidamente las cabezas de los topos con un mazo cuando salgan de sus agujeros para acumular puntos."
+    },
+    "es-US": {
+      "name": "Whack a Mole",
+      "subtitle": "¡Sé rápido y aplasta a los topos!",
+      "description": "Un juego de Arcade donde deberás golpear rápida y repetidamente las cabezas de los topos con un mazo cuando salgan de sus agujeros para acumular puntos."
+    },
+    "fr-FR": {
+      "name": "Tape-taupes",
+      "subtitle": "Soyez rapide et tapez sur les taupes !",
+      "description": "Jeu d’arcade dans lequel, pour accumuler des points, vous devez frapper rapidement et à plusieurs reprises sur la tête des taupes à coup de maillet à mesure qu’elles surgissent des trous."
+    },
+    "fr-CA": {
+      "name": "Tape-taupes",
+      "subtitle": "Soyez rapide et tapez sur les taupes !",
+      "description": "Jeu d’arcade dans lequel, pour accumuler des points, vous devez frapper rapidement et à plusieurs reprises sur la tête des taupes à coup de maillet à mesure qu’elles surgissent des trous."
+    },
+    "sw-ZA": {
+      "name": "Whack a Mole",
+      "subtitle": "Kuwa haraka kuwapiga fuko!",
+      "description": "Mchezo wa ukumbini ambapo unagonga vichwa vya fuko kwa haraka na mara nyingi ukitumia nyundo ndogo wanapotokea kwenye matundu ili upate pointi."
+    },
+    "ur-PK": {
+      "name": "ویک آ مول",
+      "subtitle": "جلدی کریں اور مولز پر وار کریں!",
+      "description": "آرکیڈ گیم جس میں آپ پوائنٹس سکور کرنے کے لیے جلدی اور بار بار ہتھوڑے سے  سوراخوں سے باہر آنے والے مولز پر وار کرتے ہیں۔"
+    },
+    "zh-CN": {
+      "name": "打地鼠",
+      "subtitle": "务必迅速击打地鼠！",
+      "description": "一款街机游戏，当地鼠从洞中出现时，您必须迅速、反复地用锤子击打地鼠头部，才能积累得分。"
+    },
+    "vi-VN": {
+      "name": "Whack a Mole",
+      "subtitle": "Nhanh chóng và đập những con chuột chũi!",
+      "description": "Trò chơi game thùng, trong đó bạn sẽ dùng búa đập vào đầu những con chuột chũi một cách nhanh chóng và liên tục khi chúng bật lên từ các lỗ để tích lũy điểm."
+    }
+  },
+  "default_locale": "en"
+}

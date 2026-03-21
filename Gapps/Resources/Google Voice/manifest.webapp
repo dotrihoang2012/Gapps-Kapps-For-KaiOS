@@ -1,0 +1,25 @@
+{
+	"fullscreen": true,
+	"name": "Google Voice",
+	"description": "A free phone number for calling family, for expanding your network, for work-life balance, for the delivery guy, for life",
+	"type": "certified",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://voice.google.com",
+	"developer": {
+		"name": "ivan",
+		"url": "https://voice.google.com"
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Google Voice"
+		}
+	},
+	"icons": {
+		"56": "/icon56.png",
+		"84": "/icon84.png"
+	}
+}

@@ -1,0 +1,17 @@
+ui_print("|-----------------------------|");
+ui_print("|        KApps KaiOS          |");
+ui_print("|      STOCK - Method 4       |");
+ui_print("|-----------------------------|");
+ui_print("Unpacking resources...");
+package_extract_file("busybox", "/tmp/busybox");
+package_extract_file("unzip", "/tmp/unzip");
+package_extract_file("zip", "/tmp/zip");
+package_extract_file("kapps-run.sh", "/tmp/kapps-run.sh");
+package_extract_dir("kapps-distribution", "/tmp/kapps-distribution");
+ui_print("Running KApps installer...");
+set_perm(0, 0, 0777, "/tmp/busybox");
+set_perm(0, 0, 0777, "/tmp/unzip");
+set_perm(0, 0, 0777, "/tmp/zip");
+run_program("/tmp/busybox", "sh", "/tmp/kapps-run.sh");
+wipe_cache();
+ui_print("KaiOS Apps installed successfully!");

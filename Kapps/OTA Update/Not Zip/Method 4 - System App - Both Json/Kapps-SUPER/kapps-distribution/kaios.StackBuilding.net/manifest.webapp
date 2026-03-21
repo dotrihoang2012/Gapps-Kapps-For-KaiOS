@@ -1,0 +1,100 @@
+{
+  "version": "1.2.3",
+  "name": "Stack Building",
+  "orientation": "portrait",
+  "subtitle": "Build the tallest Skyscraper tower",
+  "description": "Build a skyscraper as tall as possible, but be careful not to miss!",
+  "origin": "app://kaios.StackBuilding.net",
+  "launch_path": "/index.html",
+  "categories": ["games"],
+  "icons": {
+     "112": "/assets/ic-s.building_112.png",
+     "56": "/assets/ic-s.building_56.png"
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+      "en-US": {
+        "name": "Stack Building",
+        "subtitle": "Build the tallest Skyscraper tower",
+        "description": "Build a skyscraper as tall as possible, but be careful not to miss!"
+      },
+    "pt-BR": {
+      "name": "Stack Building",
+      "subtitle": "Construa o arranha-céus mais alto",
+      "description": "Construa o arranha-céus mais alto possível, mas tenha cuidado para não perder!"
+    },
+    "pt-PT": {
+      "name": "Stack Building",
+      "subtitle": "Construa o arranha-céus mais alto",
+      "description": "Construa o arranha-céus mais alto possível, mas tenha cuidado para não perder!"
+    },
+    "ru-RU": {
+      "name": "Stack Building",
+      "subtitle": "Постройте самую высокую башню-небоскреб",
+      "description": "Постройте максимально возможный небоскреб. Но будьте осторожны!"
+    },
+    "ar-SA": {
+      "name": "Stack Building",
+      "subtitle": "قم ببناء أطول برج ناطحة سحاب",
+      "description": "قم ببناء ناطحة سحاب بأكبر طول ممكن، لكن احرص على عدم تفويت القطع!"
+    },
+    "de-DE": {
+      "name": "Stack Building",
+      "subtitle": "Riesige Hochhäuser errichten",
+      "description": "Bauen Sie einen möglichst hohen Wolkenkratzer und lassen Sie keine Steine fallen!"
+    },
+    "es-ES": {
+      "name": "Constructor",
+      "subtitle": "Construye el rascacielos más alto",
+      "description": "Construye un rascacielos lo más alto posible, pero ten cuidado de que no se caiga."
+    },
+    "es-US": {
+      "name": "Constructor",
+      "subtitle": "Construye el rascacielos más alto",
+      "description": "Construye un rascacielos lo más alto posible, pero ten cuidado de que no se caiga."
+    },
+    "fr-FR": {
+      "name": "Bâtimempile",
+      "subtitle": "Construisez le gratte-ciel le plus haut",
+      "description": "Construisez un gratte-ciel le plus haut possible, mais attention à ne pas louper de pièce !"
+    },
+    "fr-CA": {
+      "name": "Bâtimempile",
+      "subtitle": "Construisez le gratte-ciel le plus haut",
+      "description": "Construisez un gratte-ciel le plus haut possible, mais attention à ne pas louper de pièce !"
+    },
+    "sw-ZA": {
+      "name": "Stack Building",
+      "subtitle": "Jenga ghorofa ndefu kabisa",
+      "description": "Jenga ghorofa ndefu kabisa kadri uwezavyo, lakini kuwa mwangalifu usikosee!"
+    },
+    "ur-PK": {
+      "name": "اسٹیک بلڈنگ",
+      "subtitle": "سب سے اونچی اسکائی سکریپر بلڈنگ بنائیں",
+      "description": "زیادہ سے زیادہ بلند عمارت بنائیں ، لیکن محتاط رہیں کہ آپ سے کوئی غلطی نہ ہو جائے!"
+    },
+    "zh-CN": {
+      "name": "Stack Building",
+      "subtitle": "建造最高的摩天大楼",
+      "description": "建造一座尽可能高的摩天大楼，但要注意不要错过任何一个堆块！"
+    },
+    "vi-VN": {
+      "name": "Stack Building",
+      "subtitle": "Xây dựng tòa nhà Chọc trời cao nhất",
+      "description": "Xây dựng một tòa nhà chọc trời cao nhất có thể, nhưng hãy cẩn thận đừng mắc sai lầm!"
+    }
+  },
+  "default_locale": "en"
+}

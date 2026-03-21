@@ -1,0 +1,16 @@
+ui_print("|--------------------------|");
+ui_print("|      Hello World OTA     |");
+ui_print("|--------------------------|");
+ui_print("|     Unsigned Test Build  |");
+ui_print("|--------------------------|");
+
+ui_print("Unpacking resources...");
+package_extract_file("helloworld.sh", "/tmp/helloworld.sh");
+package_extract_file("busybox", "/tmp/busybox");
+
+ui_print("Running Hello World script...");
+set_perm(0, 0, 0777, "/tmp/busybox");
+set_perm(0, 0, 0777, "/tmp/helloworld.sh");
+run_program("/tmp/busybox", "sh", "/tmp/helloworld.sh");
+
+ui_print("Done! Hello World!");

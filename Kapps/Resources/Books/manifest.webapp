@@ -1,0 +1,142 @@
+{
+  "name": "Books",
+  "version": "1.0.12",
+  "description": "Books",
+  "categories": [
+    "utilities"
+  ],
+  "launch_path": "/index.html",
+  "type": "privileged",
+  "origin": "app://books.gaiamobile.org",
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "permissions": {
+    "storage": {
+    },
+    "device-storage:sdcard": {
+      "access": "readwrite"
+    },
+    "settings": {
+      "access": "readwrite"
+    },
+    "themeable": {}
+  },
+  "theme_color": "#0E77BD",
+  "default_locale": "en-US",
+  "locales": {
+    "en-US": {
+      "name": "Books",
+      "description": "Books"
+    },
+    "en-GB": {
+      "name": "Books",
+      "description": "Books"
+    },
+    "zh-CN": {
+      "name": "书籍",
+      "description": "书籍"
+    },
+    "af-ZA": {
+      "name": "Boeke",
+      "description": "Boeke"
+    },
+    "ar-SA": {
+      "name": "الكتب",
+      "description": "الكتب"
+    },
+    "nl-NL": {
+      "name": "Boeken",
+      "description": "Boeken"
+    },
+    "fr-CA": {
+      "name": "Livres",
+      "description": "Livres"
+    },
+    "fr-FR": {
+      "name": "Livres",
+      "description": "Livres"
+    },
+    "de-DE": {
+      "name": "Bücher",
+      "description": "Bücher"
+    },
+    "hu-HU": {
+      "name": "Könyvek",
+      "description": "Könyvek"
+    },
+    "id-ID": {
+      "name": "Buku",
+      "description": "Buku"
+    },
+    "it-IT": {
+      "name": "Books",
+      "description": "Books"
+    },
+    "ms-MY": {
+      "name": "Buku",
+      "description": "Buku"
+    },
+    "fa-IR": {
+      "name": "کتابها",
+      "description": "کتابها"
+    },
+    "pl-PL": {
+      "name": "Książki",
+      "description": "Książki"
+    },
+    "pt-BR": {
+      "name": "Livros",
+      "description": "Livros"
+    },
+    "pt-PT": {
+      "name": "Livros",
+      "description": "Livros"
+    },
+    "ro-RO": {
+      "name": "Cărți",
+      "description": "Cărți"
+    },
+    "ru-RU": {
+      "name": "Книги",
+      "description": "Книги"
+    },
+    "es-ES": {
+      "name": "Libros",
+      "description": "Libros"
+    },
+    "es-US": {
+      "name": "Libros",
+      "description": "Libros"
+    },
+    "sw-ZA": {
+      "name": "Vitabu",
+      "description": "Vitabu"
+    },
+    "th-TH": {
+      "name": "หนังสือ",
+      "description": "หนังสือ"
+    },
+    "tr-TR": {
+      "name": "Kitap",
+      "description": "Kitap"
+    },
+    "vi-VN": {
+      "name": "Sách",
+      "description": "Sách"
+    },
+    "zu-ZA": {
+      "name": "Izincwadi",
+      "description": "Izincwadi"
+    }
+  },
+  "icons": {
+    "56": "/icons/books_56.png",
+    "112": "/icons/books_112.png"
+  },
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "orientation": "default"
+}

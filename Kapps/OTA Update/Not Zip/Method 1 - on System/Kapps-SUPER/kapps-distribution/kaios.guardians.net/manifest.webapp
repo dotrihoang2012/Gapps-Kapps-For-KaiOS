@@ -1,0 +1,100 @@
+{
+  "version": "2.1.6",
+  "name": "Guardians",
+  "orientation": "portrait",
+  "subtitle": "Defeat hordes of Aliens",
+  "description": "Make your way through hordes of incoming UFOs in this exciting shoot’em up game!",
+  "categories": ["games"],
+  "origin": "app://kaios.guardians.net",
+  "launch_path": "/index.html",
+  "icons": {
+    "112": "/assets/icon/guardians_112.png",
+    "56": "/assets/icon/guardians_56.png"
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "en-US": {
+      "name": "Guardians",
+      "subtitle": "Defeat hordes of Aliens",
+      "description": "Make your way through hordes of incoming UFOs in this exciting shoot’em up game!"
+    },
+    "pt-BR": {
+      "name": "Guardians",
+      "subtitle": "Derrote multidões de extraterrestres",
+      "description": "Abra caminho através das multidões de OVNIs neste jogo de tiros entusiasmante!"
+    },
+    "pt-PT": {
+      "name": "Guardians",
+      "subtitle": "Derrote multidões de extraterrestres",
+      "description": "Abra caminho através das multidões de OVNIs neste jogo de tiros entusiasmante!"
+    },
+    "ru-RU": {
+      "name": "Guardians",
+      "subtitle": "Победите орды пришельцев",
+      "description": "Пройди сквозь орды наступающих НЛО в этой захватывающей шутер-игре!"
+    },
+    "ar-SA": {
+      "name": "Guardians",
+      "subtitle": "اهزم جحافل الفضائيين",
+      "description": "شق طريقك عبر جحافل من الفضائيين القادمين في لعبة إطلاق النار المثيرة هذه!"
+    },
+    "de-DE": {
+      "name": "Guardians",
+      "subtitle": "Besiegen Sie Alienhorden",
+      "description": "In diesem Shooter-Spiel müssen Sie sich durch die Horden ankommender UFOs kämpfen!"
+    },
+    "es-ES": {
+      "name": "Guardianes",
+      "subtitle": "Desafía a hordas de aliens",
+      "description": "Consigue pasar a través de hordas de ovnis en este emocionante juego de disparar."
+    },
+    "es-US": {
+      "name": "Guardianes",
+      "subtitle": "Desafía a hordas de aliens",
+      "description": "Consigue pasar a través de hordas de ovnis en este emocionante juego de disparar."
+    },
+    "fr-FR": {
+      "name": "Gardiens",
+      "subtitle": "Anéantissez les hordes aliens",
+      "description": "Traversez les bataillons d’ovnis dans ce jeu de tir passionnant !"
+    },
+    "fr-CA": {
+      "name": "Gardiens",
+      "subtitle": "Anéantissez les hordes aliens",
+      "description": "Traversez les bataillons d’ovnis dans ce jeu de tir passionnant !"
+    },
+    "sw-ZA": {
+      "name": "Guardians",
+      "subtitle": "Shinda lukuki ya mamluki",
+      "description": "Pita kwenye mamia ya vyongo vya angani visivyojulikana katika mchezo huu wa kuvutia wa ufyatuliaji risasi!"
+    },
+    "ur-PK": {
+      "name": "گارڈیئنز",
+      "subtitle": "ایلینز کے دستوں کو شکست دیں",
+      "description": "اس دلچسپ شوٹنگ گیم میں آنے والے UFO کے دستوں کے بیچ اپنا راستہ بنائیں!"
+    },
+    "zh-CN": {
+      "name": "守护者",
+      "subtitle": "击败成群结队的外星人",
+      "description": "试试这款让人热血沸腾的射击游戏，在成群结队的飞碟中穿梭！"
+    },
+    "vi-VN": {
+      "name": "Guardians",
+      "subtitle": "Đánh bại đám Người ngoài hành tinh",
+      "description": "Tìm đường vượt qua đám Đĩa Bay (UFO) đang tiến đến trong trò chơi bắn súng thú vị này!"
+    }
+  },
+  "default_locale": "en-US"
+}

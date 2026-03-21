@@ -1,0 +1,34 @@
+{
+    "version": "1.0.3",
+    "name": "Run Pace Converter",
+    "description": "A pace conversion chart is developed for runners to convert their distance from Kms to Miles. Runners can also use the app to find the estimated finish time for different lengths of races.",
+	"subtitle": "Convert your pace from km to miles!",
+    "type": "web",
+    "launch_path": "/index.html",
+    "icons": {
+        "56": "/assets/icons/rately56x56.png",
+        "112": "/assets/icons/rately112x112.png"
+    },
+    "developer": {
+        "name": "KaiOS",
+        "url": "https://www.kaiostech.com/"
+    },
+    "locales": {
+        "en-US": {
+            "name": "Run Pace Converter",
+            "subtitle": "Convert your pace from km to miles!",
+            "description": "A pace conversion chart is developed for runners to convert their distance from Kms to Miles. Runners can also use the app to find the estimated finish time for different lengths of races."
+        },
+        "zh-CN": {
+            "name": "步速转换器",
+            "subtitle": "将你的步伐从公里转换为英里！",
+            "description": "开发了步速转换器，供跑步者将其距离千米转换为英里。 跑步者还可以使用该应用找到不同比赛时间的预计完成时间。"
+        }
+    },
+    "categories": ["sports"],
+    "default_locale": "en-US",
+    "permissions": {
+        "mobiledata": {},
+        "wifidata": {}
+    }
+}

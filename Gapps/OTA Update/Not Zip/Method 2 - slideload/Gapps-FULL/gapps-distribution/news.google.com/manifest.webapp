@@ -1,0 +1,23 @@
+{
+	"name": "News",
+	"description": "Google News",
+	"type": "certified",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://news.google.com",
+	"developer": {
+		"name": "News",
+		"url": "https://news.google.com"
+	},
+	"default_locale": "en-US",
+	"display": "News",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "News"
+		}
+	},
+	"icons": {
+		"128": "/icon.png"
+	}
+}

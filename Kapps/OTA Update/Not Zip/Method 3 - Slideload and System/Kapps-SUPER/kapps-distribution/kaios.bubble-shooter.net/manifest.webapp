@@ -1,0 +1,54 @@
+{
+    "version": "1.0.9",
+    "name": "Bubble Shooter Ads",
+    "origin": "app://kaios.bubble-shooter.net",
+    "description": "Form groups of three or more like-colored bubbles to pop them and get more points",
+    "launch_path": "/index.html",
+    "categories": ["games"],
+    "icons": {
+        "56": "/assets/icon-56.png",
+        "112": "/assets/icon-112.png"
+    },
+    "theme_color": "#ff271b",
+    "fullscreen": true,
+    "developer": {
+        "name": "KaiOS",
+        "url": "http://kaiostech.com"
+    },
+    "type": "web",
+    "permissions": {
+      "mobiledata":{},
+      "wifidata":{}
+    },
+    "installs_allowed_from": [
+        "*"
+    ],
+    "locales": {
+        "en-US": {
+            "name": "Bubble Shooter",
+            "subtitle": "Form groups of three or more like-colored bubbles to pop them and get more points",
+            "description": "Bubble Shooter is a puzzle/shooter game it combines the features of puzzle, shooter, strategy and action games."
+        },
+        "sw-ZA": {
+          "name": "Bubble Shooter",
+          "subtitle": "Unda makundi matatu au zaidi ya vibofu vya rangu sawa ili uvilipue ili kupata pointi zaidi",
+          "description": "Bubble Shooter ni chemshabongo au mchezo wa kulenga unaojumuisha fumbo, ulengaji shabaha, mikakati na uchukuaji wa hatua."
+        },
+        "ur-PK": {
+          "name": "ببل  شوٹر",
+          "subtitle": "تین یا زیادہ رنگ کے ببلز کے گروپ بنائیں اور انھیں پھاڑ کر زیادہ سے زیادہ پوائنٹس حاصل کریں۔",
+          "description": "ببل شوٹر ایک پزل / شوٹر گیم ہے جس میں پزل، شوٹر، حکمت عملی اور ایکشن گیمز کی خصوصیات کو یکجا کیا گیا ہے۔"
+        },
+        "zh-CN": {
+          "name": "泡泡射手",
+          "subtitle": "将三个或三个以上颜色相似的泡泡归为一组，弹出泡泡并获得更高得分。",
+          "description": "《泡泡射手》是一款益智/射击游戏，它结合了益智、射击、策略和动作游戏的特点。"
+        },
+        "vi-VN": {
+          "name": "Bubble Shooter",
+          "subtitle": "Tạo các nhóm từ ba bong bóng cùng màu trở lên để bắn và nhận được nhiều điểm hơn",
+          "description": "Bubble Shooter là một trò chơi giải đố/bắn súng, kết hợp các tính năng của trò chơi giải đố, bắn súng, chiến lược và hành động."
+        }
+    },
+    "default_locale": "en-US"
+}

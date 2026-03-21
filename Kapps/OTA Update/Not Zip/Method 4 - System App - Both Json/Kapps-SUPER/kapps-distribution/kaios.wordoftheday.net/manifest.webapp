@@ -1,0 +1,34 @@
+{
+    "version": "1.0.5",
+    "name": "Word of The Day",
+    "description": "Time to learn a word everyday and increase your vocabulary knowledge!",
+	"subtitle": "Wanna learn a new word everyday?",
+    "type": "web",
+    "launch_path": "/index.html",
+    "icons": {
+        "56": "/assets/logo56.png",
+        "112": "/assets/logo112.png"
+    },
+    "developer": {
+        "name": "KaiOS",
+        "url": "https://www.kaiostech.com/"
+    },
+    "locales": {
+        "en-US": {
+            "name": "Word of The Day",
+            "subtitle": "Wanna learn a new word everyday?",
+            "description": "Time to learn a word everyday and increase your vocabulary knowledge!"
+        },
+        "zh-CN": {
+            "name": "每日一词",
+            "subtitle": "想每天学习新单词吗?",
+            "description": "是时候每天学习单词并增加您的词汇量了！"
+        }
+    },
+    "categories": ["book/reference"],
+    "default_locale": "en-US",
+    "permissions": {
+        "mobiledata": {},
+        "wifidata": {}
+    }
+}

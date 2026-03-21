@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "Shorts",
+  "description": "YouTube Shorts",
+  "type": "privileged",
+  "theme": "#e62117",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "KaiOS",
+    "url": "https://www.kaiostech.com/"
+  },
+  "default_locale": "en-US",
+  "display":"Shorts",
+  "locales": {
+    "en-US": {
+      "name":"Shorts"
+	}
+  },
+  "origin": "app://shorts.com",
+  "icons": {
+    "56": "/youtube_shorts_56.png",
+    "112": "/youtube_shorts_112.png"
+  }
+}

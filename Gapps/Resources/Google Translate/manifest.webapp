@@ -1,0 +1,24 @@
+{
+	"name": "Translate",
+	"description": "Translate",
+	"type": "certified",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://translate.google.com",
+	"developer": {
+		"name": "Translate",
+		"url": "https://translate.google.com"
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Translate"
+		}
+	},
+	"icons": {
+		"56": "/icon56.png",
+		"84": "/icon84.png"
+	}
+}

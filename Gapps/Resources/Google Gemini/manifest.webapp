@@ -1,0 +1,23 @@
+{
+	"name": "Google Gemini",
+	"description": "Google Gemini",
+	"type": "certified",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://gemini.google.com",
+	"developer": {
+		"name": "Google Gemini",
+		"url": "https://gemini.google.com"
+	},
+	"default_locale": "en-US",
+	"display": "Google Gemini",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Google Gemini"
+		}
+	},
+	"icons": {
+		"128": "/icon.png"
+	}
+}

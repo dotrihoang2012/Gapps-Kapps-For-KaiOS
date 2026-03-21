@@ -1,0 +1,101 @@
+{
+  "version": "1.4.2",
+  "orientation": "portrait",
+  "name": "Gems",
+  "subtitle": "Combine the gems and grow your score!!",
+  "description": "Go for the highest score by matching three gems of a kind within the time limit. Use talent and skill to achieve the highest score possible!",
+  "launch_path": "/index.html",
+  "categories": ["games"],
+  "origin": "app://kaios.gems.net",
+  "icons": {
+     "112": "/assets/color_112.png",
+     "128": "/assets/color_112.png",
+     "56": "/assets/color_56.png"
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://www.kaiostech.com/"
+  },
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+      "en-US": {
+        "name": "Gems",
+        "subtitle": "Combine the gems and grow your score!",
+        "description": "Go for the highest score by matching three gems of a kind within the time limit. Use talent and skill to achieve the highest score possible!"
+      },
+      "pt-BR": {
+        "name": "Gems",
+        "subtitle": "Combine as pedras e aumente a sua pontuação!",
+        "description": "Alcance a pontuação máxima fazendo corresponder três pedras do mesmo tipo dentro do tempo limite. Utilize talento e habilidade para alcançar a maior pontuação possível!"
+      },
+      "pt-PT": {
+        "name": "Gems",
+        "subtitle": "Combine as pedras e aumente a sua pontuação!",
+        "description": "Alcance a pontuação máxima fazendo corresponder três pedras do mesmo tipo dentro do tempo limite. Utilize talento e habilidade para alcançar a maior pontuação possível!"
+      },
+      "ru-RU": {
+        "name": "Драгоценные камни",
+        "subtitle": "Объединяйте драгоценные камни и увеличивайте свой счёт!",
+        "description": "Стремитесь к наибольшему количеству очков, собирая три драгоценных камня одного вида в линию. Используйте талант и умение, чтобы набрать как можно больше очков!"
+      },
+      "ar-SA": {
+        "name": "Gems",
+        "subtitle": "اجمع بين الأحجار الكريمة وقم بزيادة درجاتك!",
+        "description": "حقق أعلى الدرجات من خلال مطابقة ثلاثة أحجار كريمة من نفس النوع خلال المهلة الزمنية. استخدم موهبتك ومهارتك لتحقيق أعلى درجة ممكنة!"
+      },
+      "de-DE": {
+        "name": "Gems",
+        "subtitle": "Kombinieren Sie Diamanten miteinander, um Punkte zu erhalten!",
+        "description": "Die meisten Punkte erzielen Sie, wenn Sie drei gleichartige Diamanten innerhalb des Zeitlimits miteinander kombinieren. Mit Talent und etwas Übung knacken Sie bestimmt den Highscore!"
+      },
+      "es-ES": {
+        "name": "Gemas",
+        "subtitle": "Combina las gemas y observa como aumenta tu puntuación.",
+        "description": "Ve a por la puntuación más alta combinando tres gemas del mismo tipo dentro del tiempo disponible. Utiliza tu talento y destreza para conseguir la mejor puntuación posible."
+      },
+      "es-US": {
+        "name": "Gemas",
+        "subtitle": "Combina las gemas y observa como aumenta tu puntuación.",
+        "description": "Ve a por la puntuación más alta combinando tres gemas del mismo tipo dentro del tiempo disponible. Utiliza tu talento y destreza para conseguir la mejor puntuación posible."
+      },
+      "fr-FR": {
+        "name": "Gemmes",
+        "subtitle": "Combinez les pierres précieuses",
+        "description": "Battez le score le plus élevé en associant trois pierres précieuses d’un même type en un temps limité. Faites preuve de talent et de compétences pour atteindre le meilleur score possible."
+      },
+      "fr-CA": {
+        "name": "Gemmes",
+        "subtitle": "Combinez les pierres précieuses",
+        "description": "Battez le score le plus élevé en associant trois pierres précieuses d’un même type en un temps limité. Faites preuve de talent et de compétences pour atteindre le meilleur score possible."
+      },
+      "sw-ZA": {
+        "name": "Vito",
+        "subtitle": "Changanya vito ukuze alama zako!",
+        "description": "Pata alama nyingi zaidi kwa kulinganisha vito vitatu vya aina moja kabla ya muda kuisha. Tumia kipaji na ujuzi ufikie alama ya juu kabisa iwezekanavyo!"
+      },
+      "ur-PK": {
+        "name": "جواہرات",
+        "subtitle": "جواہرات کو یکجا کریں اور اپنا سکور بڑھائیں!",
+        "description": "مقررہ وقت کے اندر ایک قسم کے تین جواہرات ملا کر سب سے زیادہ اسکور حاصل کریں۔"
+      },
+      "zh-CN": {
+        "name": "宝石游戏",
+        "subtitle": "组合宝石，获得分数！",
+        "description": "在规定时间内搭配三颗相同类型的宝石，争取获得最高得分。运用才华和技能争取获得最高得分！"
+      },
+      "vi-VN": {
+        "name": "Gems",
+        "subtitle": "Kết hợp đá quý và tăng điểm số của bạn!",
+        "description": "Đạt đến điểm số cao nhất bằng cách nối ba đá quý cùng loại trong thời gian giới hạn. Sử dụng tài năng và kỹ năng để đạt được điểm số cao nhất có thể!"
+      }
+    },
+  "default_locale": "en-US"
+}

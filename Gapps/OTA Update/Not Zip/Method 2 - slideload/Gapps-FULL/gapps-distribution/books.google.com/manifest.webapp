@@ -1,0 +1,24 @@
+{
+	"name": "Google Books",
+	"description": "Google Books",
+	"type": "certified",
+	"fullscreen": true,
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://books.google.com/",
+	"developer": {
+		"name": "Ivan",
+		"url": "https://books.google.com"
+	},
+	"default_locale": "en-US",
+	"display": "News",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Google Books"
+		}
+	},
+	"icons": {
+		"128": "/picasa.png"
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"name": "Gmail",
+	"description": "Gmail (pronounced Gee-mail) is a free Web-based e-mail service currently being tested at Google that provides users with a gigabyte of storage for messages and provides the ability to search for specific messages. The Gmail program also automatically organizes successively related messages into a conversational thread.",
+	"display": "Gmail",
+	"subtitle": "Connect and share with people you care about.",
+	"theme": "#B23121",
+	"loading_progress_bar": true,
+    "theme_color": "#B23121",
+    "launch_path": "/index.html",
+	"version": "3.0.2",
+	"icons": {
+		"56": "/icons/gmail56.png",
+		"84": "/icons/gmail84.png"
+	},
+	"developer": {
+		    "name": "BananaHackers",
+                    "url": "https://sites.google.com/view/bananahackers"
+	},
+	"default_locale": "en-US",
+	"locales": {
+		"en-US": {
+			"name": "Gmail",
+			"description": "Gmail (pronounced Gee-mail) is a free Web-based e-mail service currently being tested at Google that provides users with a gigabyte of storage for messages and provides the ability to search for specific messages. The Gmail program also automatically organizes successively related messages into a conversational thread.",
+			"subtitle": "Connect and share with people you care about."
+		}
+	},
+	"cursor": true,
+	"ime_default_softkey_bar": true,
+	"fullscreen": true,
+	"origin": "app://mail.google.com",
+	"permissions":{"browser":{"description":"Required for embedding a browser"},"feature-detection":{"description":"Required for detecting device's hardware features."}},
+	"chrome": {
+		"navigation": true
+	},
+	"activities": {
+		"open-fb": {
+			"href": "./index.html"
+		},
+		"share": {
+			"href": "/index.html",
+			"filters": {
+				"type": ["image/*"]
+			},
+			"disposition": "window",
+			"returnValue": true
+		}
+	},
+	"messages": [{
+		"serviceworker-notification": "/index.html"
+	}],
+	"type": "privileged"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "1.2.2",
+  "name": "Crazy Eggs",
+  "description": "Crazy eggs is a level game in which the egg is placed into one of the cups. Then the cups are shuffled while you try to keep your eye on where the egg will eventually land.",
+  "subtitle": "Can you follow the Egg ?",
+  "launch_path": "/index.html",
+  "origin": "app://kaios.crazyeggs.net",
+  "categories": ["games"],
+  "icons": {
+    "56": "/assets/icon-56.png",
+    "112": "/assets/icon-112.png"
+  },
+  "fullscreen" : true,
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "type": "web",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+      "en-US": {
+        "name": "Crazy Eggs",
+        "subtitle": "Can you follow the Egg ?",
+        "description": "Crazy eggs is a level game in which the egg is placed into one of the cups. Then the cups are shuffled while you try to keep your eye on where the egg will eventually land."
+      },
+    "pt-BR": {
+      "name": "Crazy Eggs",
+      "subtitle": "Consegue seguir o ovo?",
+      "description": "O Crazy Eggs é um jogo de níveis no qual o ovo é colocado num dos copos. Em seguida, os copos são baralhados enquanto tenta focar o olhar no local onde o ovo irá eventualmente parar."
+    },
+    "pt-PT": {
+      "name": "Crazy Eggs",
+      "subtitle": "Consegue seguir o ovo?",
+      "description": "O Crazy Eggs é um jogo de níveis no qual o ovo é colocado num dos copos. Em seguida, os copos são baralhados enquanto tenta focar o olhar no local onde o ovo irá eventualmente parar."
+    },
+    "ru-RU": {
+      "name": "Crazy Eggs",
+      "subtitle": "Можете ли вы уследить за яйцом?",
+      "description": "Crazy Eggs - это уровень игры, в котором яйцо помещается в одну из чашек. Чашки перемешиваются, а вы должны следить и угадать в какой из них яйцо."
+    },
+    "ar-SA": {
+      "name": "Crazy Eggs",
+      "subtitle": "هل يمكنك متابعة البيضة؟",
+      "description": "Crazy Eggs هي لعبة مستويات يتم فيها وضع البيض في أحد الأكواب. ثم يتم خلط الأكواب أثناء محاولة إبقاء عينيك على مكان وجود البيضة في النهاية."
+    },
+    "de-DE": {
+      "name": "Crazy Eggs",
+      "subtitle": "Können Sie dem Ei folgen?",
+      "description": "Crazy Eggs ist ein Spiel mit mehreren Leveln, in dem ein Ei in einem der Becher versteckt wird. Während die Becher durchgemischt werden, müssen Sie dem mit dem Ei folgen und erraten, wo es sich zum Schluss befindet."
+    },
+    "es-ES": {
+      "name": "Huevos locos",
+      "subtitle": "¿Puedes seguir el huevo?",
+      "description": "Huevos locos es un juego de niveles donde el huevo debe caer en uno de los barriles. Los barriles se mueven y debes estar atento para ver desde donde caerá el huevo esta vez."
+    },
+    "es-US": {
+      "name": "Huevos locos",
+      "subtitle": "¿Puedes seguir el huevo?",
+      "description": "Huevos locos es un juego de niveles donde el huevo debe caer en uno de los barriles. Los barriles se mueven y debes estar atento para ver desde donde caerá el huevo esta vez."
+    },
+    "fr-FR": {
+      "name": "Crazy Eggs",
+      "subtitle": "Pouvez-vous garder l’œil sur l’œuf ?",
+      "description": "Crazy Eggs est un jeu de plateau dans lequel un œuf est placé dans l’une des tasses. Les tasses sont ensuite mélangées devant vous : essayez de garder un œil sur l’endroit où l’œuf finira par atterrir."
+    },
+    "fr-CA": {
+      "name": "Crazy Eggs",
+      "subtitle": "Pouvez-vous garder l’œil sur l’œuf ?",
+      "description": "Crazy Eggs est un jeu de plateau dans lequel un œuf est placé dans l’une des tasses. Les tasses sont ensuite mélangées devant vous : essayez de garder un œil sur l’endroit où l’œuf finira par atterrir."
+    },
+    "sw-ZA": {
+      "name": "Crazy Eggs",
+      "subtitle": "Je, unaweza kufuata Yai?",
+      "description": "Crazy Eggs ni mchezo wa hatua ambapo yai huwekwa ndani ya kikombe kimoja. Vikombe huchanganywa na jukumu lako ni kufuatilia kikombe kilicho na kikombe hadi kitakaposimamishwa."
+    },
+    "ur-PK": {
+      "name": "کریزی ایگز",
+      "subtitle": "کیا آپ انڈے کا پیچھا کرسکتے ہیں؟",
+      "description": "کریزی ایگز ایک لیول گیم ہے جس میں انڈے کو ایک کپ میں رکھا جاتا ہے۔ اس کے بعد کپ آپس میں بدلے جاتے ہیں اور آپ انڈے والے کپ پر نظر رکھنے کی کوشش کرتے ہیں۔"
+    },
+    "zh-CN": {
+      "name": "疯狂龙蛋连连看",
+      "subtitle": "您能跟踪龙蛋吗？",
+      "description": "《疯狂龙蛋连连看》是一款将龙蛋放入其中一个杯子的关卡游戏。然后，当您试着盯着龙蛋最终落在哪个杯子中时，杯子便会被打乱。"
+    },
+    "vi-VN": {
+      "name": "Crazy Eggs",
+      "subtitle": "Bạn có bắt kịp Trứng không ?",
+      "description": "Crazy eggs là một trò chơi cấp độ trong đó trứng được đặt vào một trong những chiếc cốc. Sau đó, những chiếc cốc được xáo trộn, trong khi đó bạn sẽ cố gắng để mắt đến vị trí cuối cùng trứng sẽ dừng lại."
+    }
+  },
+  "default_locale": "en-US"
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Drive",
+	"description": "Google Drive",
+	"type": "certified",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://drive.google.com",
+	"developer": {
+		"name": "ivan",
+		"url": "https://www.google.com/drive/"
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Drive"
+		}
+	},
+	"icons": {
+		"128": "/icon.png"
+	}
+}
