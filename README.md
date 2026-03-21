@@ -225,4 +225,8 @@ gapps_signed_testkeys.zip  (CERT.SF / CERT.RSA signed with test-keys)
 
 ---
 
-*This README is provided for research and development purposes. Flashing your device may void its warranty. I am not responsible for any damage, data loss, or bricked devices that may occur during or after the flashing process — for any reason, under any circumstance, with no exceptions.*
+*THIS README IS PROVIDED FOR RESEARCH AND DEVELOPMENT PURPOSES. FLASHING YOUR DEVICE MAY VOID ITS WARRANTY. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE FLASHING PROCESS — FOR ANY REASON, UNDER ANY CIRCUMSTANCE, WITH NO EXCEPTIONS.*
+
+---
+ 
+If you encounter any issues, please email us at: dotrihoang2012@gmail.com
