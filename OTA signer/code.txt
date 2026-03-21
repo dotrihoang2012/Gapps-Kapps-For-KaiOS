@@ -3,4 +3,6 @@ java -cp signapk.jar;conscrypt-openjdk-uber.jar;bcprov-jdk15on-1.64.jar;bcpkix-j
 "C:\Path\to\somewhere\you\like\java.exe" -cp signapk.jar;conscrypt-openjdk-uber.jar;bcprov-jdk15on-1.64.jar;bcpkix-jdk15on-1.64.jar SignApk -w testkey.x509.pem testkey.pk8 Input.zip Output-signed.zip
 
 Example:
-"D:\desktop\Tools\Java\bin\java.exe" -cp signapk.jar;conscrypt-openjdk-uber.jar;bcprov-jdk15on-1.64.jar;bcpkix-jdk15on-1.64.jar SignApk -w testkey.x509.pem testkey.pk8 Input.zip Output-signed.zip
+"D:\desktop\Tools\Java\bin\java.exe" -cp signapk.jar;conscrypt-openjdk-uber.jar;bcprov-jdk15on-1.64.jar;bcpkix-jdk15on-1.64.jar SignApk -w testkey.x509.pem testkey.pk8 Input.zip Output-signed.zip\
+
+Download Java 15: https://drive.google.com/file/d/1xXcW91hKoaT6G78KvCKXN4KjPMoRP1a2/view?usp=drive_link
