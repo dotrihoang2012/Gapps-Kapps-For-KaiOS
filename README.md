@@ -229,4 +229,4 @@ gapps_signed_testkeys.zip  (CERT.SF / CERT.RSA signed with test-keys)
 
 ---
  
-If you encounter any issues, please email us at: dotrihoang2012@gmail.com
+If you encounter any issues, please email me at: dotrihoang2012@gmail.com
