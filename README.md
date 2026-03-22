@@ -1,4 +1,4 @@
-# Gapps & Kapps
+# Gapps & Kapps for KaiOS
 
 > A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Recovery Mode on KaiOS devices.
 
