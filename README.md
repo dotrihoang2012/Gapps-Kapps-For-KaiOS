@@ -13,7 +13,7 @@ A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Rec
 - Package can be `gapps_signed.zip` or `kapps_signed.zip`
 
 
-**If your device in the normal mode, please go to [Bananahackers Website](https://sites.google.com/view/bananahackers) for more information adout rooting device.**
+**If your device in the normal mode, please go to [Bananahackers Website](https://sites.google.com/view/bananahackers) for more information about rooting device.**
 
 ---
 
