@@ -23,7 +23,7 @@ A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Rec
 
 Download the `.zip` package to your computer or your KaiOS device. **Do not extract it.**
 
-**If the logo bug already show in the status bar, skip this step and enable ADB. If not, follow this steps:**
+**If the logo bug already show in the status bar, skip this step and enable ADB. If not, follow this:**
 
 #### Enable ADB (required for ADB)
 
