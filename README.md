@@ -69,7 +69,7 @@ adb reboot recovery
 
 ---
 
-### Step 3 -- Install the OTA package
+### Step 3: Install the OTA package
 
 **Method 1 -- ADB Sideload**
 
@@ -77,13 +77,13 @@ adb reboot recovery
 2. On your computer, run:
 
 ```bash
-adb sideload gapps_signed.zip
+adb sideload Kapps_signed.zip
 ```
 
 Or for Kapps:
 
 ```bash
-adb sideload kapps_signed.zip
+adb sideload Kapps_signed.zip
 ```
 
 3. Wait untill the device screen will display a live install log.
@@ -102,7 +102,7 @@ adb sideload kapps_signed.zip
 
 ### Step 4 -- Reboot
 
-Once flashing is complete, select **"Reboot system now"** from the recovery menu.
+Once installing is complete, select **"Reboot system now"** from the recovery menu.
 
 ```bash
 # Or via ADB
@@ -113,7 +113,7 @@ adb reboot
 
 ## Common Errors & Fixes
 
-### `signature verification failed`
+### `signature verification failed.`
 ```
 The package is unsigned or recovery has signature checking enabled.
  Fix: Sign zip file or Flash Recovery Mode with test-keys again.
@@ -121,9 +121,15 @@ The package is unsigned or recovery has signature checking enabled.
 
 ---
 
+### `Installation Aborted.`
+```
+Your Battery is low.
+ Fix: charge your phone untill reach to 50% or above.
+```
+
 ## Notes
 
-- Packages must be signed with **test-keys** -- the same keys used in KaiOS engineering/debug builds
+- Packages must be signed with **test-keys**
 - The zip must contain `META-INF/CERT.SF` and `META-INF/CERT.RSA` signed with test-keys (not release-keys)
 - Compatible only with KaiOS devices
 - **Always back up your data** before flashing
