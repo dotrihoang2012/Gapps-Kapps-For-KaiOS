@@ -20,6 +20,28 @@ A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Rec
 
 Download the `.zip` package to your computer or your KaiOS device. **Do not extract it.**
 
+#### Enable Developer Menu (required for ADB)
+
+You need to enable the Developer Menu on your KaiOS device before continuing:
+
+**Method 1 — Dial code**
+- Open the dialer and enter:
+```
+*#*#33284#*#*
+```
+- If it does not work, try:
+```
+*#*#0574#*#*
+```
+
+**Method 2 — Using browser (W2D)**
+1. Open the browser on your KaiOS device
+2. Go to: http://w2d.js.org/
+3. Navigate to **W2D KaiOS Jailbreak**
+4. Press **"Open Developer menu"**
+5. In Developer settings:
+   - Set **Debugger → ADB and DevTools**
+
 ```bash
 # Verify ADB detects your device
 adb devices
