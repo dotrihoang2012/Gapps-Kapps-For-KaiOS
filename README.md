@@ -113,7 +113,7 @@ adb sideload Kapps_signed.zip
 
 ---
 
-https://github.com/user-attachments/assets/6176baeb-6078-4db0-aeed-25cbfeef53c0
+https://github.com/user-attachments/assets/b369b46d-9dc3-4d3e-8b62-375b0df5e71c
 
 ### Step 4: Reboot
 
