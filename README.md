@@ -49,6 +49,8 @@ Download the `.zip` package to your computer or your KaiOS device. **Do not extr
 adb devices
 ```
 
+If the adb can't detect your device, please use the new cable.
+
 ---
 
 ### Step 2: Boot into Recovery Mode
