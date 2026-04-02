@@ -106,8 +106,4 @@ The package is unsigned or recovery has signature checking enabled.
 
 ---
 
-*THIS README IS PROVIDED FOR RESEARCH AND DEVELOPMENT PURPOSES. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE FLASHING PROCESS — FOR ANY REASON.*
-
----
- 
-If you have any errors or bugs, please email me at: dotrihoang2012@gmail.com
+If you have any errors or bugs while flashing or after flashing, please email me at: dotrihoang2012@gmail.com
