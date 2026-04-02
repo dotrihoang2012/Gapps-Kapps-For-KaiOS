@@ -113,6 +113,8 @@ adb sideload Kapps_signed.zip
 
 ---
 
+https://github.com/user-attachments/assets/6176baeb-6078-4db0-aeed-25cbfeef53c0
+
 ### Step 4: Reboot
 
 Once installing is complete, select **"Reboot system now"** from the recovery menu.
