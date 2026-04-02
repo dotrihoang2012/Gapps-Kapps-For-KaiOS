@@ -29,7 +29,7 @@ Download the `.zip` package to your computer or your KaiOS device. **Do not extr
 
 
 **Method 1 — Dial code**
-- Open the dialer and enter:
+- In the home screen, dial:
 ```
 *#*#33284#*#*
 ```
@@ -46,15 +46,15 @@ Download the `.zip` package to your computer or your KaiOS device. **Do not extr
 5. In Developer settings:
    - Set **Debugger → ADB and DevTools**
 
-**The logo bugs will show in the status bar.** 
- After finish, plug into your computer and type:
+**The logo bug will show in the status bar.** 
+After finish, plug into your computer and type:
 
 ```bash
 # Verify ADB detects your device
 adb devices
 ```
 
-If the adb can't detect your device, please use the new cable.
+**If the adb can't detect your device, please use the new cable.**
 
 ---
 
