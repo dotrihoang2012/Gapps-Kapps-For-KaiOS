@@ -116,6 +116,7 @@ gapps/kapps_signed.zip  (CERT.SF / CERT.RSA signed with test-keys)
  updater-script
  busybox
  Gapps-Kapps Distribution/
+ decl.patch
  install.sh
 ```
 
