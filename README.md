@@ -41,8 +41,8 @@ Download the `.zip` package to your computer or your KaiOS device. **Do not extr
 5. In Developer settings:
    - Set **Debugger → ADB and DevTools**
 
-**The logo bugs will show in the status bar**
-After finish, plug into your computer and type:
+**The logo bugs will show in the status bar.** 
+ After finish, plug into your computer and type:
 
 ```bash
 # Verify ADB detects your device
