@@ -4,12 +4,12 @@ A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Rec
 
 ---
 
-**Before installing:**
+Before installing:
 
 ****THIS README.md IS PROVIDED FOR DEVELOPMENT PURPOSES. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE INSTALLING PROCESS FOR ANY REASON, UNDER ANY CIRCUMSTANCE, WITH NO EXCEPTIONS.****
 
 
-If you're worried about installing, install manually in the store or install third-party webapps in WebIDE. 
+If you're worried about installing, install manually in the store or third-party webapps in WebIDE. 
 
 
 <details>
