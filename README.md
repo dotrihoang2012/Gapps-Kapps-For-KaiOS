@@ -6,11 +6,11 @@ A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Rec
 
 ## Requirements
 
-1. A KaiOS device must have a recovery mode with **test-keys**
-2. Package must be signed with **test-keys** (not release-keys)
-3. At least **50%** charge before flashing
-4. ADB & Fastboot installed on your computer
-5. Package can be `gapps_signed.zip` or `kapps_signed.zip`
+- A KaiOS device must have a recovery mode with **test-keys**
+- Package must be signed with **test-keys** (not release-keys)
+- At least **50%** charge before flashing
+- ADB & Fastboot installed on your computer
+- Package can be `gapps_signed.zip` or `kapps_signed.zip`
 
 ---
 
