@@ -80,44 +80,12 @@ adb reboot
 
 ---
 
-## Understanding the Flash Log
-
-During install, you will see output like this on the device screen:
-
-```
-|--------------------------|
-| Gapps / Kapps Installer |
-|--------------------------|
-Unpacking resources...
-Running install script...
-Wipe cache...
-Done!
-```
-
----
-
 ## Common Errors & Fixes
 
 ### `signature verification failed`
 ```
 The package is unsigned or recovery has signature checking enabled.
  Fix: Sign zip file or Flash Recovery Mode with test-keys again.
-```
-
----
-
-## OTA Package Structure
-
-```
-gapps/kapps_signed.zip  (CERT.SF / CERT.RSA signed with test-keys)
- META-INF/
- com/google/android/
- update-binary
- updater-script
- busybox
- Gapps-Kapps Distribution/
- decl.patch
- install.sh
 ```
 
 ---
