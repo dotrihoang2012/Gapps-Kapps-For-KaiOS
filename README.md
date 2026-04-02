@@ -38,9 +38,9 @@ adb reboot recovery
 
 ---
 
-### Step 3 — Install the OTA package
+### Step 3 -- Install the OTA package
 
-**Method 1 — ADB Sideload**
+**Method 1 -- ADB Sideload**
 
 1. Select **"Apply update"** → **"Apply from ADB"**
 2. On your computer, run:
