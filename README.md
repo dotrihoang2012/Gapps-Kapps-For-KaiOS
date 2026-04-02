@@ -22,7 +22,6 @@ Download the `.zip` package to your computer or your KaiOS device. **Do not extr
 
 #### Enable Developer Menu (required for ADB)
 
-You need to enable the Developer Menu on your KaiOS device before continuing:
 
 **Method 1 — Dial code**
 - Open the dialer and enter:
