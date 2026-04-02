@@ -71,7 +71,7 @@ adb reboot recovery
 
 ### Step 3: Install the OTA package
 
-**Method 1 -- ADB Sideload**
+**Method 1 - ADB Sideload**
 
 1. Select **"Apply update"** → **"Apply from ADB"**
 2. On your computer, run:
@@ -90,17 +90,17 @@ adb sideload Kapps_signed.zip
 
 ---
 
-**Method 2 — Apply from SD Card**
+**Method 2 - Apply from SD Card**
 
 1. Copy the `.zip` file into your SD card.
 2. Insert the SD card into the device.
 3. In the recovery menu, select → **"Apply from SD card"**
 4. Navigate to the `.zip` file and confirm.
-5. Wait for the installation to complete.
+5. Wait untill the device screen will display a live install log.
 
 ---
 
-### Step 4 -- Reboot
+### Step 4: Reboot
 
 Once installing is complete, select **"Reboot system now"** from the recovery menu.
 
@@ -142,6 +142,10 @@ Your Battery is low.
 - [Android Debug Bridge (ADB) Docs](https://developer.android.com/tools/adb)
 - [KaiOS Developer Portal](https://developer.kaiostech.com)
 - [Bananahackers Website](https://sites.google.com/view/bananahackers)
+
+---
+
+*THIS README IS PROVIDED FOR DEVELOPMENT PURPOSES. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE INSTALLING PROCESS FOR ANY REASON, UNDER ANY CIRCUMSTANCE, WITH NO EXCEPTIONS.*
 
 ---
 
