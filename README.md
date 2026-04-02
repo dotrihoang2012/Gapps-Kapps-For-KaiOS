@@ -47,6 +47,8 @@ Download the `.zip` package to your computer or your KaiOS device. **Do not extr
    - Set **Debugger → ADB and DevTools**
 
 **The logo bug will show in the status bar.** 
+
+
 After finish, plug into your computer and type:
 
 ```bash
