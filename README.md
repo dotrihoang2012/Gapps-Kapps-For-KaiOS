@@ -1,6 +1,4 @@
 # Gapps & Kapps for KaiOS
-<img width="680" height="680" alt="ic_opengapps_large" src="https://github.com/user-attachments/assets/30d441ac-e6a9-49a2-94f4-b7ac88e93ff4" />
-<img width="1024" height="1024" alt="cc6a7075-bec3-4e8c-82b6-6b6e2e80b862" src="https://github.com/user-attachments/assets/e03948a3-e03e-4feb-8894-529e3d02dfa1" />
 
 A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Recovery Mode on KaiOS devices.
 
