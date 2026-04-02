@@ -112,11 +112,11 @@ The package is unsigned or recovery has signature checking enabled.
 gapps/kapps_signed.zip  (CERT.SF / CERT.RSA signed with test-keys)
  META-INF/
  com/google/android/
- update-binary ARM ELF binary that drives the install
- updater-script Edify script controlling install logic
- busybox Static shell utilities used by the script
- Gapps-Kapps Distribution/ Webapps
- install.sh Main installation shell script
+ update-binary
+ updater-script
+ busybox
+ Gapps-Kapps Distribution/
+ install.sh
 ```
 
 ---
@@ -139,7 +139,7 @@ gapps/kapps_signed.zip  (CERT.SF / CERT.RSA signed with test-keys)
 
 ---
 
-*THIS README IS PROVIDED FOR RESEARCH AND DEVELOPMENT PURPOSES. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE FLASHING PROCESS — FOR ANY REASON, UNDER ANY CIRCUMSTANCE, WITH NO EXCEPTIONS.*
+*THIS README IS PROVIDED FOR RESEARCH AND DEVELOPMENT PURPOSES. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE FLASHING PROCESS — FOR ANY REASON.*
 
 ---
  
