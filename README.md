@@ -62,7 +62,6 @@ adb devices
 
 ### Step 2: Boot into Recovery Mode
 
-**Via ADB:**
 ```bash
 adb reboot recovery
 ```
