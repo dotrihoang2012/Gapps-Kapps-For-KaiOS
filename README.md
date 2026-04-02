@@ -115,6 +115,8 @@ adb sideload Kapps_signed.zip
 
 https://github.com/user-attachments/assets/b369b46d-9dc3-4d3e-8b62-375b0df5e71c
 
+**This is an example of installing Successfully Kapps-Slideloded-Super version on Nokia 8110 4G on SD card.**
+
 ### Step 4: Reboot
 
 Once installing is complete, select **"Reboot system now"** from the recovery menu.
