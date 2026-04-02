@@ -16,7 +16,7 @@ A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Rec
 
 ## Flash Instructions
 
-### Step 1 -- Prepare the file
+### Step 1: Prepare the file
 
 Download the `.zip` package to your computer or your KaiOS device. **Do not extract it.**
 
@@ -27,7 +27,7 @@ adb devices
 
 ---
 
-### Step 2 -- Boot into Recovery Mode
+### Step 2: Boot into Recovery Mode
 
 **Via ADB:**
 ```bash
