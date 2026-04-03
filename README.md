@@ -6,7 +6,7 @@ A guide to installing **Gapps** (Google Apps) and **Kapps** (KaiOS Apps) via Rec
 
 Before installing:
 
-****THIS README.md IS PROVIDED FOR TESTING ONLY. JAILBREAKING OR ROOTING DEVICE MAY VOID YOUR WARNITTY. THE FIRST RELEASE WILL BE MANY BUGS, SO PROCEED AT YOUR OWN RISK. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE INSTALLING PROCESS FOR ANY REASON, UNDER ANY CIRCUMSTANCE, WITH NO EXCEPTIONS.****
+****THIS README.MD IS PROVIDED FOR TESTING ONLY. JAILBREAKING OR ROOTING A DEVICE MAY VOID YOUR WARRANTY. THE FIRST RELEASE WILL HAVE MANY BUGS, SO PROCEED AT YOUR OWN RISK. I AM NOT RESPONSIBLE FOR ANY DAMAGE, DATA LOSS, OR BRICKED DEVICES THAT MAY OCCUR DURING OR AFTER THE INSTALLING PROCESS FOR ANY REASON, UNDER ANY CIRCUMSTANCE, WITH NO EXCEPTIONS.****
 
 
 If you're worried about installing, install manually in the store or third-party webapps in WebIDE. 
@@ -24,7 +24,7 @@ If you're worried about installing, install manually in the store or third-party
 - Package can be `gapps_signed.zip` or `kapps_signed.zip`
 
 
-**If your device in the normal mode, please go to [Bananahackers Website](https://sites.google.com/view/bananahackers) for more information about rooting device and change the stock recovery mode.**
+**If your device in the normal mode, please go to [Bananahackers Website](https://sites.google.com/view/bananahackers) for more information about rooting your device and changing the stock recovery mode.**
 
 ---
 
@@ -34,7 +34,7 @@ If you're worried about installing, install manually in the store or third-party
 
 Download the `.zip` package to your computer or your KaiOS device. **Do not extract it.**
 
-**If the logo bug already show in the status bar, skip this step and enable ADB. If not, follow this:**
+**If the logo bug already shows in the status bar, skip this step and enable ADB. If not, follow this:**
 
 #### Enable ADB (required for ADB)
 
@@ -60,7 +60,7 @@ Download the `.zip` package to your computer or your KaiOS device. **Do not extr
 **The logo bug will show in the status bar.** 
 
 
-After finish, plug into your computer and type:
+After finishing, plug it into your computer and type:
 
 ```bash
 # Verify ADB detects your device
@@ -97,7 +97,7 @@ Or for Kapps:
 adb sideload Kapps_signed.zip
 ```
 
-3. Wait untill the device screen will display a live install log.
+3. Wait until the device screen displays a live install log.
 
 ---
 
@@ -107,17 +107,17 @@ adb sideload Kapps_signed.zip
 2. Insert the SD card into the device.
 3. In the recovery menu, select → **"Apply from SD card"**
 4. Navigate to the `.zip` file and confirm.
-5. Wait untill the device screen will display a live install log.
+5. Wait until the device screen displays a live install log.
 
 ---
 
 https://github.com/user-attachments/assets/b369b46d-9dc3-4d3e-8b62-375b0df5e71c
 
-**This is an example of installing Successfully Kapps-Slideloded-Super version on Nokia 8110 4G on SD card.**
+**This is an example of installing Successfully Kapps-Slideloded-Super version on Nokia 8110 4G with method Apply update from SD card.**
 
 ### Step 4: Reboot
 
-Once installing is complete, select **"Reboot system now"** from the recovery menu.
+Once installation is complete, select **"Reboot system now"** from the recovery menu.
 
 ```bash
 # Or via ADB
