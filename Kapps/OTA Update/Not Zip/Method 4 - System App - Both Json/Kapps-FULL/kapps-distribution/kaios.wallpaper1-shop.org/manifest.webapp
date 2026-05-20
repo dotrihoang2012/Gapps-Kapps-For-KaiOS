@@ -1,0 +1,47 @@
+{
+  "version": "0.7.2",
+  "name": "Wallpaper Shop",
+  "description": "Personalize your phone with unique background options available from the Wallpaper Shop. Instantly transform your phone to fit your style and select from free and paid wallpapers, including beautiful landscapes, cuddly animals, action sports and cool cars.",
+  "subtitle": "Express yourself with unique wallpapers",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "categories": ["utilities"],
+  "permissions": {
+    "systemXHR": {},
+    "serviceworker": {},
+    "cloud-authorization": {},
+    "mobileconnection": {},
+    "wifi-manage": {}
+  },
+  "developer": {
+    "name": "KaiOS",
+    "url": "http://kaiostech.com"
+  },
+  "origin": "app://kaios.wallpaper1-shop.org",
+  "theme_color": "#3d5dff",
+  "default_locale": "en-US",
+  "locales": {
+    "en-US": {
+      "name": "Wallpaper shop",
+      "subtitle": "Express yourself with unique wallpapers",
+      "description": "Personalize your phone with unique background options available from the Wallpaper Shop. Instantly transform your phone to fit your style and select from free and paid wallpapers, including beautiful landscapes, cuddly animals, action sports and cool cars."
+    },
+    "pt-BR": {
+      "name": "Loja de Papéis de Parede"
+    }
+  },
+  "icons": {
+    "56": "/resources/icons/wallpapers_56.png",
+    "112": "/resources/icons/wallpapers_112.png"
+  },
+  "orientation": "default",
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "connections": {
+    "wallpaper-tracker": {
+      "description": "Communication with KaiPay",
+      "rules": {}
+    }
+  }
+}
