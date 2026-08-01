@@ -29,6 +29,9 @@ fi
 /tmp/busybox umount /sdcard
 /tmp/busybox umount /system
 
+# Muont /data partition rw de ghi vao /data/local/webapps
+/tmp/busybox mount -t ext4 -o rw /dev/block/bootdevice/by-name/userdata /data
+
 # Tạo thư mục /data/local/webapps nếu chưa có
 /tmp/busybox mkdir -p $WEBAPPSDIR
 
@@ -56,4 +59,9 @@ else
 fi
 
 /tmp/busybox chmod 600 $WEBAPPS_DATA
+
+# Unmount /data sau khi hoan thanh
+/tmp/busybox umount /data
+
 echo "KApps sideload installed successfully"
+

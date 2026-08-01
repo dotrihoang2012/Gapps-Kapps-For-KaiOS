@@ -35,6 +35,9 @@ echo -n ${MANCONT%?} > /tmp/webapps-system.json
 
 /tmp/busybox umount /system
 
+# Muont /data partition rw de ghi vao /data/local/webapps
+/tmp/busybox mount -t ext4 -o rw /dev/block/bootdevice/by-name/userdata /data
+
 /tmp/busybox mkdir -p $WEBAPPSDIR_DATA
 
 for appdir in $APPSDIR/*/; do
@@ -55,4 +58,9 @@ else
 fi
 
 /tmp/busybox chmod 600 $WEBAPPS_DATA
+
+# Unmount /data sau khi hoan thanh
+/tmp/busybox umount /data
+
 echo "GApps installed to both partitions"
+

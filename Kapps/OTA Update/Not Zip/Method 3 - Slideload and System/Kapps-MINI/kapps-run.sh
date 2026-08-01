@@ -41,6 +41,9 @@ echo -n ${MANCONT%?} > /tmp/webapps-system.json
 
 /tmp/busybox umount /system
 
+# Muont /data partition rw de ghi vao /data/local/webapps
+/tmp/busybox mount -t ext4 -o rw /dev/block/bootdevice/by-name/userdata /data
+
 # ── INSTALL vào /data/local/webapps ──
 /tmp/busybox mkdir -p $WEBAPPSDIR_DATA
 
@@ -62,4 +65,9 @@ else
 fi
 
 /tmp/busybox chmod 600 $WEBAPPS_DATA
+
+# Unmount /data sau khi hoan thanh
+/tmp/busybox umount /data
+
 echo "KApps dual-install completed successfully"
+
